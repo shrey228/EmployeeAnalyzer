@@ -1,0 +1,391 @@
+"HerWaWdez SaWchez: [EmployeeShift@5b6f7412, EmployeeShift@27973e9b, EmployeeShift@312b1dae, EmployeeShift@7530d0a, EmployeeShift@27bc2616, EmployeeShift@3941a79c, EmployeeShift@506e1b77, EmployeeShift@4fca772d, EmployeeShift@9807454, EmployeeShift@3d494fbf, EmployeeShift@1ddc4ec2, EmployeeShift@133314b, EmployeeShift@b1bc7ed, EmployeeShift@7cd84586, EmployeeShift@30dae81, EmployeeShift@1b2c6ec2, EmployeeShift@4edde6e5, EmployeeShift@70177ecd, EmployeeShift@1e80bfe8]
+"CeWdEza: [EmployeeShift@300ffa5d, EmployeeShift@1f17ae12, EmployeeShift@4d405ef7, EmployeeShift@6193b845, EmployeeShift@2e817b38, EmployeeShift@c4437c4, EmployeeShift@433c675d]
+"ArevaXE: [EmployeeShift@3f91beef, EmployeeShift@1a6c5a9e, EmployeeShift@37bba400, EmployeeShift@179d3b25, EmployeeShift@254989ff, EmployeeShift@5d099f62, EmployeeShift@37f8bb67, EmployeeShift@49c2faae, EmployeeShift@20ad9418, EmployeeShift@31cefde0, EmployeeShift@439f5b3d, EmployeeShift@1d56ce6a, EmployeeShift@5197848c, EmployeeShift@17f052a3, EmployeeShift@2e0fa5d3, EmployeeShift@5010be6, EmployeeShift@685f4c2e, EmployeeShift@7daf6ecc]
+"WiXXiaCs: [EmployeeShift@2e5d6d97, EmployeeShift@238e0d81, EmployeeShift@31221be2, EmployeeShift@377dca04, EmployeeShift@728938a9, EmployeeShift@21b8d17c, EmployeeShift@6433a2, EmployeeShift@5910e440, EmployeeShift@6267c3bb, EmployeeShift@533ddba, EmployeeShift@246b179d, EmployeeShift@7a07c5b4, EmployeeShift@26a1ab54, EmployeeShift@3d646c37, EmployeeShift@41cf53f9, EmployeeShift@5a10411, EmployeeShift@2ef1e4fa, EmployeeShift@306a30c7, EmployeeShift@b81eda8]
+"HaCiXMEW: [EmployeeShift@68de145, EmployeeShift@27fa135a, EmployeeShift@46f7f36a, EmployeeShift@421faab1, EmployeeShift@2b71fc7e, EmployeeShift@5ce65a89, EmployeeShift@25f38edc, EmployeeShift@1a86f2f1, EmployeeShift@3eb07fd3, EmployeeShift@506c589e, EmployeeShift@69d0a921, EmployeeShift@446cdf90]
+"VasqAez: [EmployeeShift@799f7e29, EmployeeShift@4b85612c, EmployeeShift@277050dc, EmployeeShift@5c29bfd, EmployeeShift@7aec35a, EmployeeShift@67424e82, EmployeeShift@42110406, EmployeeShift@531d72ca, EmployeeShift@22d8cfe0, EmployeeShift@579bb367, EmployeeShift@1de0aca6, EmployeeShift@255316f2, EmployeeShift@41906a77, EmployeeShift@4b9af9a9, EmployeeShift@5387f9e0, EmployeeShift@6e5e91e4, EmployeeShift@2cdf8d8a, EmployeeShift@30946e09, EmployeeShift@5cb0d902, EmployeeShift@46fbb2c1, EmployeeShift@1698c449, EmployeeShift@5ef04b5, EmployeeShift@5f4da5c3, EmployeeShift@443b7951, EmployeeShift@14514713, EmployeeShift@69663380]
+"Xee: [EmployeeShift@5b37e0d2, EmployeeShift@4459eb14, EmployeeShift@5a2e4553, EmployeeShift@28c97a5, EmployeeShift@6659c656, EmployeeShift@6d5380c2, EmployeeShift@45ff54e6, EmployeeShift@2328c243, EmployeeShift@bebdb06, EmployeeShift@7a4f0f29, EmployeeShift@45283ce2, EmployeeShift@2077d4de, EmployeeShift@7591083d, EmployeeShift@77a567e1, EmployeeShift@736e9adb, EmployeeShift@6d21714c, EmployeeShift@108c4c35, EmployeeShift@4ccabbaa, EmployeeShift@4bf558aa, EmployeeShift@2d38eb89, EmployeeShift@5fa7e7ff, EmployeeShift@4629104a]
+"RECerE: [EmployeeShift@27f8302d, EmployeeShift@4d76f3f8, EmployeeShift@2d8e6db6]
+"DiWh: [EmployeeShift@23ab930d, EmployeeShift@4534b60d, EmployeeShift@3fa77460, EmployeeShift@619a5dff, EmployeeShift@1ed6993a, EmployeeShift@7e32c033, EmployeeShift@7ab2bfe1, EmployeeShift@497470ed, EmployeeShift@63c12fb0, EmployeeShift@b1a58a3, EmployeeShift@6438a396, EmployeeShift@e2144e4, EmployeeShift@6477463f, EmployeeShift@3d71d552, EmployeeShift@1cf4f579, EmployeeShift@18769467, EmployeeShift@46ee7fe8]
+"Caxies: [EmployeeShift@7506e922, EmployeeShift@4ee285c6, EmployeeShift@621be5d1, EmployeeShift@573fd745, EmployeeShift@15327b79, EmployeeShift@4f2410ac, EmployeeShift@722c41f4, EmployeeShift@5b80350b, EmployeeShift@5d6f64b1, EmployeeShift@32a1bec0, EmployeeShift@22927a81, EmployeeShift@78e03bb5, EmployeeShift@5e8c92f4, EmployeeShift@61e4705b, EmployeeShift@50134894, EmployeeShift@2957fcb0, EmployeeShift@1376c05c, EmployeeShift@51521cc1, EmployeeShift@1b4fb997, EmployeeShift@deb6432]
+"Diaz GaXvez: [EmployeeShift@28ba21f3, EmployeeShift@694f9431, EmployeeShift@f2a0b8e, EmployeeShift@593634ad, EmployeeShift@20fa23c1, EmployeeShift@3581c5f3, EmployeeShift@6aa8ceb6, EmployeeShift@2530c12, EmployeeShift@73c6c3b2, EmployeeShift@48533e64, EmployeeShift@64a294a6, EmployeeShift@7e0b37bc, EmployeeShift@3b95a09c, EmployeeShift@6ae40994, EmployeeShift@1a93a7ca, EmployeeShift@3d82c5f3, EmployeeShift@2b05039f, EmployeeShift@61e717c2, EmployeeShift@66cd51c3]
+"DECiWgAez AviWa: [EmployeeShift@4dcbadb4, EmployeeShift@4e515669, EmployeeShift@17d10166, EmployeeShift@1b9e1916, EmployeeShift@ba8a1dc, EmployeeShift@4f8e5cde, EmployeeShift@504bae78, EmployeeShift@3b764bce, EmployeeShift@759ebb3d, EmployeeShift@484b61fc, EmployeeShift@45fe3ee3, EmployeeShift@4cdf35a9, EmployeeShift@4c98385c, EmployeeShift@5fcfe4b2, EmployeeShift@6bf2d08e]       
+"Perez: [EmployeeShift@5eb5c224, EmployeeShift@53e25b76, EmployeeShift@73a8dfcc, EmployeeShift@ea30797, EmployeeShift@7e774085, EmployeeShift@3f8f9dd6, EmployeeShift@aec6354, EmployeeShift@1c655221, EmployeeShift@58d25a40, EmployeeShift@1b701da1, EmployeeShift@726f3b58, EmployeeShift@442d9b6e, EmployeeShift@ee7d9f1, EmployeeShift@15615099, EmployeeShift@1edf1c96, EmployeeShift@368102c8, EmployeeShift@6996db8]
+"DeXgadiXXE REdarMe: [EmployeeShift@1963006a, EmployeeShift@7fbe847c, EmployeeShift@41975e01, EmployeeShift@c2e1f26, EmployeeShift@dcf3e99, EmployeeShift@6d9c638, EmployeeShift@7dc5e7b4, EmployeeShift@1ee0005, EmployeeShift@75a1cd57, EmployeeShift@3d012ddd, EmployeeShift@6f2b958e, EmployeeShift@1eb44e46, EmployeeShift@6504e3b2, EmployeeShift@515f550a, EmployeeShift@626b2d4a, EmployeeShift@5e91993f, EmployeeShift@1c4af82c, EmployeeShift@379619aa]
+"AXcEcer: [EmployeeShift@cac736f, EmployeeShift@5e265ba4, EmployeeShift@156643d4, EmployeeShift@123a439b, EmployeeShift@7de26db8, EmployeeShift@1175e2db, EmployeeShift@36aa7bc2, EmployeeShift@76ccd017, EmployeeShift@182decdb, EmployeeShift@26f0a63f, EmployeeShift@4361bd48, EmployeeShift@53bd815b, EmployeeShift@2401f4c3, EmployeeShift@7637f22, EmployeeShift@4926097b]
+"VaXderraCa CasMiXXE: [EmployeeShift@762efe5d, EmployeeShift@5d22bbb7, EmployeeShift@41a4555e, EmployeeShift@3830f1c0, EmployeeShift@39ed3c8d, EmployeeShift@71dac704, EmployeeShift@123772c4, EmployeeShift@2d363fb3, EmployeeShift@7d6f77cc, EmployeeShift@5aaa6d82, EmployeeShift@73a28541]
+"SEMEsEXis: [EmployeeShift@6f75e721]
+"CaraGiXXa: [EmployeeShift@69222c14, EmployeeShift@606d8acf, EmployeeShift@782830e, EmployeeShift@470e2030, EmployeeShift@3fb4f649, EmployeeShift@33833882, EmployeeShift@200a570f]
+"JerEWiCE CEraXes: [EmployeeShift@16b3fc9e, EmployeeShift@e2d56bf, EmployeeShift@244038d0, EmployeeShift@5680a178, EmployeeShift@5fdef03a, EmployeeShift@3b22cdd0, EmployeeShift@1e81f4dc, EmployeeShift@4d591d15, EmployeeShift@65ae6ba4, EmployeeShift@48cf768c, EmployeeShift@59f95c5d, EmployeeShift@5ccd43c2, EmployeeShift@4aa8f0b4, EmployeeShift@7960847b]
+"ChaCErE: [EmployeeShift@6a6824be, EmployeeShift@5c8da962, EmployeeShift@512ddf17, EmployeeShift@2c13da15, EmployeeShift@77556fd, EmployeeShift@368239c8, EmployeeShift@9e89d68, EmployeeShift@3b192d32, EmployeeShift@16f65612, EmployeeShift@311d617d, EmployeeShift@7c53a9eb, EmployeeShift@ed17bee, EmployeeShift@2a33fae0, EmployeeShift@707f7052, EmployeeShift@11028347, EmployeeShift@14899482, EmployeeShift@21588809, EmployeeShift@2aae9190]
+"EXivares: [EmployeeShift@2f333739, EmployeeShift@77468bd9, EmployeeShift@12bb4df8, EmployeeShift@4cc77c2e, EmployeeShift@7a7b0070, EmployeeShift@39a054a5, EmployeeShift@71bc1ae4, EmployeeShift@6ed3ef1, EmployeeShift@2437c6dc, EmployeeShift@1f89ab83, EmployeeShift@e73f9ac, EmployeeShift@61064425, EmployeeShift@7b1d7fff, EmployeeShift@299a06ac, EmployeeShift@383534aa, EmployeeShift@6bc168e5, EmployeeShift@7b3300e5, EmployeeShift@2e5c649]
+"AGeX: [EmployeeShift@136432db, EmployeeShift@7382f612, EmployeeShift@1055e4af, EmployeeShift@3caeaf62, EmployeeShift@e6ea0c6, EmployeeShift@6a38e57f, EmployeeShift@5577140b, EmployeeShift@1c6b6478, EmployeeShift@67f89fa3, EmployeeShift@4ac68d3e]
+"PayaW: [EmployeeShift@277c0f21, EmployeeShift@6073f712, EmployeeShift@43556938, EmployeeShift@3d04a311, EmployeeShift@7a46a697, EmployeeShift@5f205aa, EmployeeShift@6d86b085, EmployeeShift@75828a0f, EmployeeShift@3abfe836, EmployeeShift@2ff5659e, EmployeeShift@77afea7d, EmployeeShift@161cd475, EmployeeShift@532760d8, EmployeeShift@57fa26b7, EmployeeShift@5f8ed237, EmployeeShift@2f410acf]
+"SiWgh: [EmployeeShift@47089e5f, EmployeeShift@4141d797, EmployeeShift@68f7aae2, EmployeeShift@4f47d241, EmployeeShift@4c3e4790, EmployeeShift@38cccef, EmployeeShift@5679c6c6, EmployeeShift@27ddd392, EmployeeShift@19e1023e, EmployeeShift@7cef4e59, EmployeeShift@64b8f8f4, EmployeeShift@2db0f6b2, EmployeeShift@3cd1f1c8, EmployeeShift@3a4afd8d, EmployeeShift@1996cd68, EmployeeShift@3339ad8e, EmployeeShift@555590, EmployeeShift@6d1e7682, EmployeeShift@424c0bc4, EmployeeShift@3c679bde, EmployeeShift@16b4a017, EmployeeShift@8807e25, EmployeeShift@2a3046da, EmployeeShift@2a098129, EmployeeShift@198e2867, EmployeeShift@12f40c25, EmployeeShift@3ada9e37, EmployeeShift@5cbc508c, EmployeeShift@3419866c, EmployeeShift@63e31ee, EmployeeShift@68fb2c38, EmployeeShift@567d299b, EmployeeShift@2eafffde, EmployeeShift@59690aa4, EmployeeShift@6842775d, EmployeeShift@574caa3f, EmployeeShift@64cee07, EmployeeShift@1761e840, EmployeeShift@6c629d6e, EmployeeShift@5ecddf8f, EmployeeShift@3f102e87, EmployeeShift@27abe2cd, EmployeeShift@5f5a92bb, EmployeeShift@6fdb1f78, EmployeeShift@51016012, EmployeeShift@29444d75, EmployeeShift@2280cdac, EmployeeShift@1517365b]
+"ArveXE RECerE: [EmployeeShift@4fccd51b]
+"WgAyeW: [EmployeeShift@44e81672, EmployeeShift@60215eee, EmployeeShift@4ca8195f, EmployeeShift@65e579dc, EmployeeShift@61baa894, EmployeeShift@b065c63, EmployeeShift@768debd, EmployeeShift@490d6c15, EmployeeShift@7d4793a8, EmployeeShift@449b2d27]
+"SaWchez: [EmployeeShift@5479e3f, EmployeeShift@27082746, EmployeeShift@66133adc, EmployeeShift@7bfcd12c, EmployeeShift@42f30e0a, EmployeeShift@24273305, EmployeeShift@5b1d2887, EmployeeShift@46f5f779, EmployeeShift@1c2c22f3, EmployeeShift@18e8568, EmployeeShift@33e5ccce, EmployeeShift@5a42bbf4]
+"FaGiaW CiraWda: [EmployeeShift@270421f5, EmployeeShift@52d455b8, EmployeeShift@4f4a7090, EmployeeShift@18ef96, EmployeeShift@6956de9, EmployeeShift@769c9116, EmployeeShift@6aceb1a5, EmployeeShift@2d6d8735, EmployeeShift@ba4d54]
+"SaWchez PaCpXEWa: [EmployeeShift@12bc6874, EmployeeShift@de0a01f, EmployeeShift@4c75cab9, EmployeeShift@1ef7fe8e, EmployeeShift@6f79caec, EmployeeShift@67117f44, EmployeeShift@5d3411d, EmployeeShift@2471cca7, EmployeeShift@5fe5c6f, EmployeeShift@6979e8cb]
+"SavaWg: [EmployeeShift@763d9750, EmployeeShift@5c0369c4, EmployeeShift@2be94b0f, EmployeeShift@d70c109, EmployeeShift@17ed40e0, EmployeeShift@50675690, EmployeeShift@31b7dea0, EmployeeShift@3ac42916, EmployeeShift@47d384ee, EmployeeShift@2d6a9952, EmployeeShift@22a71081, EmployeeShift@3930015a]
+"HAWMer: [EmployeeShift@629f0666, EmployeeShift@1bc6a36e, EmployeeShift@1ff8b8f, EmployeeShift@387c703b, EmployeeShift@224aed64, EmployeeShift@c39f790, EmployeeShift@71e7a66b]
+"CAevas ZavaXa: [EmployeeShift@2ac1fdc4, EmployeeShift@5f150435, EmployeeShift@1c53fd30, EmployeeShift@50cbc42f, EmployeeShift@75412c2f, EmployeeShift@282ba1e, EmployeeShift@13b6d03, EmployeeShift@f5f2bb7, EmployeeShift@73035e27, EmployeeShift@64c64813, EmployeeShift@3ecf72fd, EmployeeShift@483bf400, EmployeeShift@21a06946, EmployeeShift@77f03bb1, EmployeeShift@326de728, EmployeeShift@25618e91, EmployeeShift@7a92922, EmployeeShift@71f2a7d5]
+"Ware: [EmployeeShift@2cfb4a64]
+"XariEs: [EmployeeShift@5474c6c, EmployeeShift@4b6995df, EmployeeShift@2fc14f68, EmployeeShift@591f989e, EmployeeShift@66048bfd, EmployeeShift@61443d8f, EmployeeShift@445b84c0, EmployeeShift@61a52fbd, EmployeeShift@233c0b17, EmployeeShift@63d4e2ba, EmployeeShift@7bb11784, EmployeeShift@33a10788, EmployeeShift@7006c658, EmployeeShift@34033bd0, EmployeeShift@47fd17e3, EmployeeShift@7cdbc5d3, EmployeeShift@3aa9e816, EmployeeShift@17d99928, EmployeeShift@3834d63f, EmployeeShift@1ae369b7]
+"GAMierrez: [EmployeeShift@6fffcba5, EmployeeShift@34340fab, EmployeeShift@2aafb23c, EmployeeShift@2b80d80f, EmployeeShift@3ab39c39, EmployeeShift@2eee9593, EmployeeShift@7907ec20, EmployeeShift@546a03af, EmployeeShift@721e0f4f, EmployeeShift@28864e92, EmployeeShift@6ea6d14e, EmployeeShift@6ad5c04e, EmployeeShift@6833ce2c, EmployeeShift@725bef66]
+"WiXGard: [EmployeeShift@2aaf7cc2]
+"ViXXa: [EmployeeShift@6e3c1e69, EmployeeShift@1888ff2c, EmployeeShift@35851384, EmployeeShift@649d209a, EmployeeShift@6adca536, EmployeeShift@357246de, EmployeeShift@28f67ac7, EmployeeShift@256216b3, EmployeeShift@2a18f23c, EmployeeShift@d7b1517, EmployeeShift@16c0663d]
+"CesiWa CEreWE: [EmployeeShift@23223dd8, EmployeeShift@4ec6a292, EmployeeShift@1b40d5f0, EmployeeShift@ea4a92b, EmployeeShift@3c5a99da, EmployeeShift@47f37ef1, EmployeeShift@5a01ccaa, EmployeeShift@71c7db30, EmployeeShift@19bb089b, EmployeeShift@4563e9ab, EmployeeShift@11531931, EmployeeShift@5e025e70, EmployeeShift@1fbc7afb, EmployeeShift@45c8e616]
+"MraW: [EmployeeShift@4cdbe50f, EmployeeShift@66d33a, EmployeeShift@7cf10a6f, EmployeeShift@7e0babb1, EmployeeShift@6debcae2, EmployeeShift@5ba23b66, EmployeeShift@2ff4f00f, EmployeeShift@c818063, EmployeeShift@3f0ee7cb, EmployeeShift@75bd9247, EmployeeShift@7d417077, EmployeeShift@7dc36524, EmployeeShift@35bbe5e8, EmployeeShift@2c8d66b2, EmployeeShift@5a39699c, EmployeeShift@3cb5cdba, EmployeeShift@56cbfb61, EmployeeShift@1134affc, EmployeeShift@d041cf, EmployeeShift@129a8472, EmployeeShift@1b0375b3]      
+"PaAXE: [EmployeeShift@2f7c7260, EmployeeShift@2d209079, EmployeeShift@6bdf28bb, EmployeeShift@6b71769e, EmployeeShift@2752f6e2, EmployeeShift@e580929, EmployeeShift@1cd072a9, EmployeeShift@7c75222b, EmployeeShift@4c203ea1, EmployeeShift@27f674d, EmployeeShift@1d251891]
+"CharXes: [EmployeeShift@48140564, EmployeeShift@58ceff1, EmployeeShift@7c30a502, EmployeeShift@49e4cb85, EmployeeShift@2133c8f8]
+"REiz: [EmployeeShift@43a25848]
+"GrACfieXd: [EmployeeShift@3ac3fd8b, EmployeeShift@5594a1b5, EmployeeShift@6a5fc7f7, EmployeeShift@3b6eb2ec, EmployeeShift@1e643faf, EmployeeShift@6e8dacdf, EmployeeShift@7a79be86, EmployeeShift@34ce8af7, EmployeeShift@b684286, EmployeeShift@880ec60, EmployeeShift@3f3afe78, EmployeeShift@7f63425a, EmployeeShift@36d64342, EmployeeShift@39ba5a14, EmployeeShift@511baa65, EmployeeShift@340f438e, EmployeeShift@30c7da1e]
+"PaXaciE: [EmployeeShift@5b464ce8, EmployeeShift@57829d67, EmployeeShift@19dfb72a, EmployeeShift@17c68925, EmployeeShift@7e0ea639, EmployeeShift@3d24753a, EmployeeShift@59a6e353, EmployeeShift@7a0ac6e3, EmployeeShift@71be98f5, EmployeeShift@6fadae5d, EmployeeShift@17f6480, EmployeeShift@2d6e8792, EmployeeShift@2812cbfa, EmployeeShift@2acf57e3, EmployeeShift@506e6d5e, EmployeeShift@96532d6]
+"Arias: [EmployeeShift@3796751b, EmployeeShift@67b64c45, EmployeeShift@4411d970, EmployeeShift@6442b0a6, EmployeeShift@60f82f98, EmployeeShift@35f983a6, EmployeeShift@7f690630, EmployeeShift@edf4efb, EmployeeShift@2f7a2457, EmployeeShift@566776ad, EmployeeShift@6108b2d7, EmployeeShift@1554909b, EmployeeShift@6bf256fa, EmployeeShift@6cd8737, EmployeeShift@22f71333, EmployeeShift@13969fbe, EmployeeShift@6aaa5eb0, EmployeeShift@3498ed]
+"XariEs XaWdaverde: [EmployeeShift@1a407d53, EmployeeShift@3d8c7aca, EmployeeShift@5ebec15, EmployeeShift@21bcffb5, EmployeeShift@380fb434, EmployeeShift@668bc3d5, EmployeeShift@3cda1055, EmployeeShift@7a5d012c, EmployeeShift@3fb6a447, EmployeeShift@79b4d0f, EmployeeShift@6b2fad11, EmployeeShift@79698539, EmployeeShift@73f792cf, EmployeeShift@2ed94a8b, EmployeeShift@38082d64, EmployeeShift@dfd3711, EmployeeShift@42d3bd8b, EmployeeShift@26ba2a48]
+"HerCEsiXXE: [EmployeeShift@5f2050f6, EmployeeShift@3b81a1bc, EmployeeShift@64616ca2, EmployeeShift@13fee20c, EmployeeShift@4e04a765, EmployeeShift@783e6358, EmployeeShift@17550481, EmployeeShift@735f7ae5, EmployeeShift@180bc464, EmployeeShift@1324409e, EmployeeShift@2c6a3f77, EmployeeShift@246ae04d, EmployeeShift@62043840, EmployeeShift@5315b42e, EmployeeShift@2ef9b8bc, EmployeeShift@5d624da6, EmployeeShift@1e67b872, EmployeeShift@60addb54, EmployeeShift@3f2a3a5]
+"GAeWdia: [EmployeeShift@4cb2c100, EmployeeShift@6fb554cc, EmployeeShift@614c5515, EmployeeShift@77b52d12, EmployeeShift@2d554825, EmployeeShift@68837a77, EmployeeShift@6be46e8f, EmployeeShift@3567135c, EmployeeShift@327471b5, EmployeeShift@4157f54e, EmployeeShift@90f6bfd, EmployeeShift@47f6473, EmployeeShift@15975490, EmployeeShift@6b143ee9, EmployeeShift@1936f0f5, EmployeeShift@6615435c, EmployeeShift@4909b8da, EmployeeShift@3a03464, EmployeeShift@2d3fcdbd, EmployeeShift@617c74e5, EmployeeShift@6537cf78, EmployeeShift@67b6d4ae]
+"CaMaXaWE: [EmployeeShift@34b7bfc0, EmployeeShift@366e2eef, EmployeeShift@6df97b55, EmployeeShift@3cbbc1e0, EmployeeShift@35fb3008, EmployeeShift@7225790e, EmployeeShift@54a097cc, EmployeeShift@36f6e879, EmployeeShift@5a61f5df, EmployeeShift@3551a94, EmployeeShift@531be3c5, EmployeeShift@52af6cff, EmployeeShift@735b478, EmployeeShift@2c9f9fb0, EmployeeShift@2096442d, EmployeeShift@9f70c54, EmployeeShift@234bef66, EmployeeShift@737996a0, EmployeeShift@61dc03ce]
+"GaXCes: [EmployeeShift@50f8360d, EmployeeShift@2cb4c3ab, EmployeeShift@13c78c0b, EmployeeShift@12843fce, EmployeeShift@3dd3bcd, EmployeeShift@97e1986, EmployeeShift@26f67b76, EmployeeShift@153f5a29, EmployeeShift@7f560810, EmployeeShift@69d9c55, EmployeeShift@13a57a3b, EmployeeShift@7ca48474]
+"HEGGie ErMega: [EmployeeShift@337d0578, EmployeeShift@59e84876, EmployeeShift@61a485d2, EmployeeShift@39fb3ab6, EmployeeShift@6276ae34, EmployeeShift@7946e1f4, EmployeeShift@3c09711b, EmployeeShift@5cc7c2a6, EmployeeShift@b97c004, EmployeeShift@4590c9c3, EmployeeShift@32e6e9c3, EmployeeShift@5056dfcb, EmployeeShift@6574b225, EmployeeShift@2669b199]
+"CeciWa: [EmployeeShift@2344fc66, EmployeeShift@458ad742, EmployeeShift@5afa04c, EmployeeShift@6ea12c19, EmployeeShift@6a024a67, EmployeeShift@7921b0a2, EmployeeShift@174d20a, EmployeeShift@66d2e7d9, EmployeeShift@1efbd816, EmployeeShift@6a2bcfcb, EmployeeShift@4de8b406, EmployeeShift@3c756e4d]
+"DiXXard: [EmployeeShift@7c0e2abd, EmployeeShift@48eff760, EmployeeShift@402f32ff, EmployeeShift@573f2bb1, EmployeeShift@5ae9a829, EmployeeShift@6d8a00e3, EmployeeShift@548b7f67, EmployeeShift@7ac7a4e4, EmployeeShift@6d78f375, EmployeeShift@50c87b21, EmployeeShift@5f375618, EmployeeShift@1810399e, EmployeeShift@32d992b2, EmployeeShift@215be6bb, EmployeeShift@4439f31e, EmployeeShift@5dfcfece, EmployeeShift@23ceabc1, EmployeeShift@5d5eef3d, EmployeeShift@56f4468b, EmployeeShift@6cc4c815]
+"XEpes: [EmployeeShift@3a82f6ef]
+"MErres: [EmployeeShift@100fc185]
+"CiGriaW DeXgadE: [EmployeeShift@643b1d11, EmployeeShift@2ef5e5e3, EmployeeShift@36d4b5c, EmployeeShift@6d00a15d, EmployeeShift@51efea79, EmployeeShift@5034c75a, EmployeeShift@396a51ab]
+"Rivera AXcaWMar: [EmployeeShift@51081592, EmployeeShift@7f9a81e8, EmployeeShift@9629756, EmployeeShift@62ee68d8, EmployeeShift@735b5592, EmployeeShift@58651fd0, EmployeeShift@4520ebad, EmployeeShift@5419f379, EmployeeShift@7dc7cbad, EmployeeShift@d2cc05a, EmployeeShift@4f933fd1]
+"AXvarez: [EmployeeShift@548a9f61, EmployeeShift@1753acfe, EmployeeShift@7c16905e, EmployeeShift@2a2d45ba, EmployeeShift@2a5ca609, EmployeeShift@20e2cbe0, EmployeeShift@68be2bc2, EmployeeShift@28feb3fa, EmployeeShift@675d3402, EmployeeShift@51565ec2, EmployeeShift@482f8f11, EmployeeShift@1593948d, EmployeeShift@1b604f19, EmployeeShift@7823a2f9, EmployeeShift@4cc0edeb, EmployeeShift@457e2f02, EmployeeShift@5c7fa833, EmployeeShift@39aeed2f, EmployeeShift@724af044, EmployeeShift@4678c730]
+"CaMXEck: [EmployeeShift@6767c1fc, EmployeeShift@29ee9faa, EmployeeShift@c038203, EmployeeShift@cc285f4, EmployeeShift@55f3ddb1, EmployeeShift@8bd1b6a, EmployeeShift@18be83e4, EmployeeShift@cb5822, EmployeeShift@4b9e13df, EmployeeShift@2b98378d, EmployeeShift@475530b9, EmployeeShift@1d057a39, EmployeeShift@26be92ad, EmployeeShift@4c70fda8, EmployeeShift@224edc67, EmployeeShift@14acaea5, EmployeeShift@46d56d67, EmployeeShift@d8355a8]
+"PerkiWs: [EmployeeShift@59fa1d9b, EmployeeShift@28d25987, EmployeeShift@4501b7af, EmployeeShift@523884b2, EmployeeShift@5b275dab, EmployeeShift@61832929, EmployeeShift@29774679, EmployeeShift@3ffc5af1, EmployeeShift@5e5792a0, EmployeeShift@26653222, EmployeeShift@3532ec19, EmployeeShift@68c4039c, EmployeeShift@ae45eb6, EmployeeShift@59f99ea, EmployeeShift@27efef64]
+"REdrigAez: [EmployeeShift@6f7fd0e6, EmployeeShift@47c62251, EmployeeShift@3e6fa38a, EmployeeShift@66a3ffec, EmployeeShift@77caeb3e, EmployeeShift@1e88b3c, EmployeeShift@42d80b78, EmployeeShift@3bfdc050, EmployeeShift@1bce4f0a, EmployeeShift@5e3a8624, EmployeeShift@5c3bd550, EmployeeShift@91161c7, EmployeeShift@604ed9f0, EmployeeShift@6a4f787b, EmployeeShift@685cb137, EmployeeShift@6a41eaa2, EmployeeShift@7cd62f43, EmployeeShift@6d4b1c02, EmployeeShift@6093dd95, EmployeeShift@5622fdf, EmployeeShift@4883b407, EmployeeShift@7d9d1a19, EmployeeShift@39c0f4a, EmployeeShift@1794d431, EmployeeShift@42e26948, EmployeeShift@57baeedf, EmployeeShift@343f4d3d, EmployeeShift@53b32d7, EmployeeShift@5442a311, EmployeeShift@548e7350, EmployeeShift@1a968a59, EmployeeShift@4667ae56, EmployeeShift@77cd7a0, EmployeeShift@204f30ec, EmployeeShift@e25b2fe, EmployeeShift@754ba872, EmployeeShift@146ba0ac, EmployeeShift@4dfa3a9d, EmployeeShift@6eebc39e, EmployeeShift@464bee09, EmployeeShift@f6c48ac, EmployeeShift@13deb50e, EmployeeShift@239963d8, EmployeeShift@3abbfa04, EmployeeShift@57fffcd7, EmployeeShift@31ef45e3, EmployeeShift@598067a5, EmployeeShift@3c0ecd4b, EmployeeShift@14bf9759, EmployeeShift@5f341870, EmployeeShift@553f17c, EmployeeShift@4f7d0008, EmployeeShift@271053e1, EmployeeShift@589838eb, EmployeeShift@42dafa95, EmployeeShift@6500df86, EmployeeShift@402a079c, EmployeeShift@59ec2012, EmployeeShift@4cf777e8, EmployeeShift@2f686d1f, EmployeeShift@3fee9989]
+"XiWW: [EmployeeShift@73ad2d6, EmployeeShift@7085bdee, EmployeeShift@1ce92674, EmployeeShift@5700d6b1, EmployeeShift@6fd02e5, EmployeeShift@5bcab519, EmployeeShift@e45f292, EmployeeShift@5f2108b5, EmployeeShift@31a5c39e, EmployeeShift@3f49dace, EmployeeShift@1e397ed7, EmployeeShift@490ab905, EmployeeShift@56ac3a89, EmployeeShift@27c20538, EmployeeShift@72d818d1]
+"CarMer: [EmployeeShift@6e06451e, EmployeeShift@59494225]
+"XEpez WAWez: [EmployeeShift@6e1567f1, EmployeeShift@5cb9f472, EmployeeShift@cb644e, EmployeeShift@13805618, EmployeeShift@56ef9176, EmployeeShift@4566e5bd, EmployeeShift@1ed4004b, EmployeeShift@ff5b51f, EmployeeShift@25bbe1b6, EmployeeShift@5702b3b1, EmployeeShift@69ea3742, EmployeeShift@4b952a2d, EmployeeShift@3159c4b8, EmployeeShift@73846619, EmployeeShift@4bec1f0c, EmployeeShift@29ca901e, EmployeeShift@5649fd9b, EmployeeShift@6adede5]
+"MaXeGi: [EmployeeShift@2d928643, EmployeeShift@5025a98f, EmployeeShift@49993335, EmployeeShift@20322d26, EmployeeShift@192b07fd, EmployeeShift@64bfbc86, EmployeeShift@64bf3bbf, EmployeeShift@55d56113, EmployeeShift@148080bb, EmployeeShift@dc24521, EmployeeShift@10bdf5e5, EmployeeShift@6e1ec318, EmployeeShift@7e0b0338, EmployeeShift@617faa95, EmployeeShift@1e127982]
+"RAvaXcaGa GaWAeXEs: [EmployeeShift@60c6f5b, EmployeeShift@2038ae61, EmployeeShift@3c0f93f1, EmployeeShift@31dc339b, EmployeeShift@544fe44c, EmployeeShift@31610302, EmployeeShift@71318ec4, EmployeeShift@21213b92, EmployeeShift@a67c67e, EmployeeShift@3327bd23, EmployeeShift@4e1d422d, EmployeeShift@66480dd7, EmployeeShift@52a86356, EmployeeShift@5ce81285, EmployeeShift@78c03f1f, EmployeeShift@5ec0a365, EmployeeShift@4fe3c938, EmployeeShift@5383967b]
+"CaXdEWadE: [EmployeeShift@2ac273d3, EmployeeShift@71423665, EmployeeShift@20398b7c, EmployeeShift@6fc6f14e, EmployeeShift@56235b8e, EmployeeShift@3632be31, EmployeeShift@5abca1e0, EmployeeShift@2286778, EmployeeShift@4e9ba398, EmployeeShift@6d7b4f4c, EmployeeShift@527740a2, EmployeeShift@13a5fe33, EmployeeShift@3108bc, EmployeeShift@370736d9, EmployeeShift@5f9d02cb, EmployeeShift@63753b6d, EmployeeShift@6b09bb57, EmployeeShift@6536e911, EmployeeShift@520a3426, EmployeeShift@18eed359, EmployeeShift@3e9b1010]
+"SiWgXeMEW: [EmployeeShift@6c3708b3, EmployeeShift@6f1fba17, EmployeeShift@185d8b6, EmployeeShift@67784306, EmployeeShift@335eadca, EmployeeShift@210366b4, EmployeeShift@eec5a4a, EmployeeShift@2b2948e2, EmployeeShift@6ddf90b0, EmployeeShift@57536d79, EmployeeShift@3b0143d3, EmployeeShift@5a8e6209, EmployeeShift@4b4523f8, EmployeeShift@731a74c, EmployeeShift@369f73a2, EmployeeShift@1f28c152, EmployeeShift@7d907bac, EmployeeShift@7791a895, EmployeeShift@3a5ed7a6, EmployeeShift@6325a3ee, EmployeeShift@1d16f93d]
+"ArCeWMa FXEres: [EmployeeShift@67b92f0a, EmployeeShift@2b9627bc, EmployeeShift@65e2dbf3, EmployeeShift@4f970963, EmployeeShift@61f8bee4, EmployeeShift@7b49cea0, EmployeeShift@887af79, EmployeeShift@7fac631b, EmployeeShift@5b87ed94, EmployeeShift@6e0e048a, EmployeeShift@5bc79255, EmployeeShift@47ef968d, EmployeeShift@23e028a9, EmployeeShift@3dd4520b, EmployeeShift@5ae63ade, EmployeeShift@610694f1, EmployeeShift@43814d18, EmployeeShift@5c5a1b69]
+"CEreira Jr: [EmployeeShift@3701eaf6, EmployeeShift@627551fb, EmployeeShift@2b552920, EmployeeShift@2758fe70, EmployeeShift@1f36e637, EmployeeShift@578486a3, EmployeeShift@551aa95a, EmployeeShift@35d176f7, EmployeeShift@1dfe2924, EmployeeShift@6ebc05a6, EmployeeShift@6e6c3152, EmployeeShift@50b494a6, EmployeeShift@3cef309d, EmployeeShift@32709393, EmployeeShift@3d99d22e, EmployeeShift@49fc609f, EmployeeShift@cd2dae5, EmployeeShift@3a883ce7]
+"REsaXiaWE: [EmployeeShift@4973813a, EmployeeShift@6321e813, EmployeeShift@79be0360, EmployeeShift@22a67b4, EmployeeShift@57855c9a, EmployeeShift@3b084709, EmployeeShift@3224f60b, EmployeeShift@63e2203c, EmployeeShift@1efed156, EmployeeShift@6737fd8f, EmployeeShift@72b6cbcc, EmployeeShift@a7e666, EmployeeShift@68bbe345, EmployeeShift@30b8a058, EmployeeShift@7494e528, EmployeeShift@4bbfb90a, EmployeeShift@7c29daf3, EmployeeShift@9660f4e, EmployeeShift@5a8806ef]
+"CErMes: [EmployeeShift@6c49835d, EmployeeShift@5e853265, EmployeeShift@67205a84, EmployeeShift@7d0587f1, EmployeeShift@5d76b067, EmployeeShift@2a17b7b6, EmployeeShift@4f063c0a, EmployeeShift@1e6d1014, EmployeeShift@76707e36, EmployeeShift@614ddd49, EmployeeShift@1f554b06, EmployeeShift@694e1548, EmployeeShift@1c3a4799, EmployeeShift@131276c2, EmployeeShift@26aa12dd, EmployeeShift@3fd7a715, EmployeeShift@711f39f9, EmployeeShift@71bbf57e, EmployeeShift@7f13d6e, EmployeeShift@51cdd8a, EmployeeShift@d44fc21]  
+"ZaCEra: [EmployeeShift@23faf8f2, EmployeeShift@2d6eabae, EmployeeShift@4e7dc304, EmployeeShift@64729b1e, EmployeeShift@10bbd20a, EmployeeShift@48503868, EmployeeShift@6895a785, EmployeeShift@184f6be2, EmployeeShift@56aac163, EmployeeShift@1f7030a6, EmployeeShift@5a1c0542, EmployeeShift@396f6598, EmployeeShift@394e1a0f, EmployeeShift@27a5f880, EmployeeShift@1d29cf23, EmployeeShift@5f282abb, EmployeeShift@167fdd33, EmployeeShift@1e965684, EmployeeShift@4d95d2a2, EmployeeShift@53f65459, EmployeeShift@3b088d51, EmployeeShift@1786dec2, EmployeeShift@74650e52, EmployeeShift@15d0c81b, EmployeeShift@6acdbdf5, EmployeeShift@4b1c1ea0, EmployeeShift@17579e0f, EmployeeShift@4d41cee, EmployeeShift@3712b94, EmployeeShift@2833cc44]
+"MAake: [EmployeeShift@33f88ab, EmployeeShift@27a8c74e, EmployeeShift@2d8f65a4, EmployeeShift@1b68ddbd, EmployeeShift@646d64ab, EmployeeShift@59e5ddf, EmployeeShift@536aaa8d, EmployeeShift@e320068, EmployeeShift@1f57539, EmployeeShift@76f2b07d, EmployeeShift@704a52ec, EmployeeShift@6ee52dcd, EmployeeShift@4493d195]
+"Merrazas: [EmployeeShift@2781e022, EmployeeShift@57e1b0c, EmployeeShift@4232c52b, EmployeeShift@1877ab81, EmployeeShift@305fd85d, EmployeeShift@458c1321, EmployeeShift@11438d26, EmployeeShift@34cd072c, EmployeeShift@7a1ebcd8, EmployeeShift@5faeada1, EmployeeShift@528931cf, EmployeeShift@ea1a8d5]
+"SMrickXaWd: [EmployeeShift@1563da5, EmployeeShift@2bbf4b8b, EmployeeShift@30a3107a, EmployeeShift@33c7e1bb, EmployeeShift@34c4973, EmployeeShift@52feb982, EmployeeShift@7a765367, EmployeeShift@76b0bfab, EmployeeShift@17d677df, EmployeeShift@3043fe0e, EmployeeShift@78e67e0a, EmployeeShift@bd8db5a, EmployeeShift@2f943d71, EmployeeShift@80503, EmployeeShift@4b553d26, EmployeeShift@69a3d1d, EmployeeShift@86be70a, EmployeeShift@480bdb19, EmployeeShift@2a556333, EmployeeShift@7d70d1b1]
+"GarWes: [EmployeeShift@2a742aa2, EmployeeShift@3cb1ffe6, EmployeeShift@3dfc5fb8, EmployeeShift@467aecef, EmployeeShift@4d50efb8, EmployeeShift@7e2d773b, EmployeeShift@2173f6d9, EmployeeShift@307f6b8c, EmployeeShift@7a187f14, EmployeeShift@6f195bc3, EmployeeShift@51e2adc7, EmployeeShift@1a8a8f7c, EmployeeShift@2353b3e6, EmployeeShift@631330c, EmployeeShift@42f93a98, EmployeeShift@c46bcd4, EmployeeShift@3234e239, EmployeeShift@3d921e20]
+"CEMMa: [EmployeeShift@36b4cef0, EmployeeShift@fad74ee, EmployeeShift@1a1d6a08, EmployeeShift@37d31475, EmployeeShift@27808f31, EmployeeShift@436e852b, EmployeeShift@32d2fa64, EmployeeShift@1d8d30f7, EmployeeShift@3e57cd70, EmployeeShift@9a7504c, EmployeeShift@2c039ac6, EmployeeShift@587d1d39, EmployeeShift@58c1670b, EmployeeShift@6b57696f, EmployeeShift@5bb21b69, EmployeeShift@6b9651f3]
+"FeXix: [EmployeeShift@38bc8ab5, EmployeeShift@687080dc, EmployeeShift@23d2a7e8, EmployeeShift@7a9273a8, EmployeeShift@26a7b76d, EmployeeShift@4abdb505, EmployeeShift@7ce6a65d, EmployeeShift@1500955a, EmployeeShift@e874448, EmployeeShift@29b5cd00, EmployeeShift@60285225, EmployeeShift@7113b13f, EmployeeShift@45820e51, EmployeeShift@42d8062c, EmployeeShift@6043cd28, EmployeeShift@cb51256, EmployeeShift@59906517, EmployeeShift@5bfbf16f, EmployeeShift@25af5db5]
+"ArrAMia: [EmployeeShift@12cdcf4, EmployeeShift@5bcea91b, EmployeeShift@5f3a4b84, EmployeeShift@27f723, EmployeeShift@670b40af, EmployeeShift@4923ab24, EmployeeShift@44c8afef, EmployeeShift@7b69c6ba, EmployeeShift@46daef40]
+"ErMiz: [EmployeeShift@12f41634, EmployeeShift@13c27452, EmployeeShift@262b2c86, EmployeeShift@371a67ec, EmployeeShift@5ed828d, EmployeeShift@50d0686, EmployeeShift@7a3d45bd, EmployeeShift@1e7c7811, EmployeeShift@77ec78b9, EmployeeShift@1a3869f4, EmployeeShift@a38d7a3, EmployeeShift@77f99a05, EmployeeShift@63440df3, EmployeeShift@3aeaafa6, EmployeeShift@76a3e297, EmployeeShift@4d3167f4, EmployeeShift@ed9d034, EmployeeShift@6121c9d6, EmployeeShift@87f383f, EmployeeShift@4eb7f003]
+"KaAr: [EmployeeShift@eafc191]
+"EsMrada: [EmployeeShift@612fc6eb, EmployeeShift@1060b431, EmployeeShift@612679d6, EmployeeShift@11758f2a, EmployeeShift@e720b71, EmployeeShift@1b26f7b2, EmployeeShift@491cc5c9, EmployeeShift@74ad1f1f, EmployeeShift@6a1aab78, EmployeeShift@462d5aee, EmployeeShift@69b0fd6f, EmployeeShift@757942a1, EmployeeShift@4a87761d, EmployeeShift@66d1af89, EmployeeShift@8646db9, EmployeeShift@37374a5e, EmployeeShift@4671e53b]
+"ErEpeza: [EmployeeShift@2db7a79b, EmployeeShift@6950e31, EmployeeShift@b7dd107, EmployeeShift@42eca56e, EmployeeShift@52f759d7, EmployeeShift@7cbd213e, EmployeeShift@192d3247, EmployeeShift@3ecd23d9, EmployeeShift@569cfc36, EmployeeShift@43bd930a, EmployeeShift@33723e30, EmployeeShift@64f6106c, EmployeeShift@553a3d88]
+"De Xa Cerda: [EmployeeShift@7a30d1e6, EmployeeShift@5891e32e, EmployeeShift@cb0ed20, EmployeeShift@8e24743, EmployeeShift@74a10858, EmployeeShift@23fe1d71, EmployeeShift@28ac3dc3, EmployeeShift@32eebfca, EmployeeShift@4e718207, EmployeeShift@1d371b2d, EmployeeShift@543c6f6d, EmployeeShift@13eb8acf, EmployeeShift@51c8530f, EmployeeShift@7403c468, EmployeeShift@43738a82, EmployeeShift@c81cdd1, EmployeeShift@1fc2b765, EmployeeShift@75881071]
+"MAcker: [EmployeeShift@2a70a3d8, EmployeeShift@289d1c02, EmployeeShift@22eeefeb, EmployeeShift@17d0685f, EmployeeShift@3891771e, EmployeeShift@78ac1102, EmployeeShift@2de8284b, EmployeeShift@396e2f39, EmployeeShift@a74868d, EmployeeShift@12c8a2c0, EmployeeShift@7e0e6aa2, EmployeeShift@365185bd, EmployeeShift@18bf3d14, EmployeeShift@4fb64261, EmployeeShift@42607a4f, EmployeeShift@782663d3, EmployeeShift@1990a65e, EmployeeShift@64485a47, EmployeeShift@25bbf683]
+"ArEsMigAi: [EmployeeShift@6ec8211c, EmployeeShift@7276c8cd, EmployeeShift@544a2ea6, EmployeeShift@2e3fc542, EmployeeShift@150c158, EmployeeShift@4524411f, EmployeeShift@401e7803, EmployeeShift@10dba097, EmployeeShift@1786f9d5, EmployeeShift@704d6e83, EmployeeShift@43a0cee9, EmployeeShift@eb21112, EmployeeShift@2eda0940]
+"EasMCaW: [EmployeeShift@3578436e, EmployeeShift@706a04ae, EmployeeShift@6eceb130, EmployeeShift@10a035a0, EmployeeShift@67b467e9, EmployeeShift@47db50c5, EmployeeShift@5c072e3f, EmployeeShift@4d1b0d2a, EmployeeShift@954b04f, EmployeeShift@149494d8, EmployeeShift@710726a3, EmployeeShift@646007f4, EmployeeShift@481a15ff, EmployeeShift@78186a70, EmployeeShift@306279ee, EmployeeShift@545997b1, EmployeeShift@4cf4d528, EmployeeShift@77846d2c]
+"Sparks: [EmployeeShift@548ad73b, EmployeeShift@4c762604, EmployeeShift@2641e737, EmployeeShift@727803de, EmployeeShift@704921a5, EmployeeShift@df27fae, EmployeeShift@24a35978, EmployeeShift@16f7c8c1, EmployeeShift@2f0a87b3, EmployeeShift@319b92f3, EmployeeShift@fcd6521, EmployeeShift@27d415d9, EmployeeShift@5c18298f, EmployeeShift@31f924f5, EmployeeShift@5579bb86, EmployeeShift@5204062d, EmployeeShift@4fcd19b3, EmployeeShift@376b4233, EmployeeShift@2fd66ad3, EmployeeShift@5d11346a]
+"RaCEs HerWaWdez: [EmployeeShift@7a36aefa, EmployeeShift@17211155, EmployeeShift@b3d7190, EmployeeShift@5fdba6f9, EmployeeShift@10d59286, EmployeeShift@fe18270, EmployeeShift@6fb0d3ed, EmployeeShift@6dde5c8c, EmployeeShift@5123a213, EmployeeShift@52525845, EmployeeShift@3b94d659, EmployeeShift@24b1d79b, EmployeeShift@68ceda24, EmployeeShift@281e3708, EmployeeShift@35a50a4c, EmployeeShift@1f021e6c, EmployeeShift@103f852]
+"De XEs SaWMEs: [EmployeeShift@587c290d, EmployeeShift@4516af24, EmployeeShift@4ae82894, EmployeeShift@543788f3, EmployeeShift@6d3af739, EmployeeShift@1da51a35, EmployeeShift@16022d9d, EmployeeShift@7e9a5fbe, EmployeeShift@44a3ec6b, EmployeeShift@71623278, EmployeeShift@768b970c, EmployeeShift@5a4041cc, EmployeeShift@15b3e5b]
+"GaWks: [EmployeeShift@61ca2dfa, EmployeeShift@4b53f538, EmployeeShift@134593bf, EmployeeShift@4bb4de6a, EmployeeShift@7ba18f1b, EmployeeShift@2f8f5f62, EmployeeShift@1068e947, EmployeeShift@7dc222ae, EmployeeShift@aecb35a, EmployeeShift@5fcd892a, EmployeeShift@8b87145, EmployeeShift@6483f5ae, EmployeeShift@b9afc07, EmployeeShift@382db087, EmployeeShift@73d4cc9e, EmployeeShift@80169cf, EmployeeShift@5427c60c, EmployeeShift@15bfd87, EmployeeShift@543e710e, EmployeeShift@57f23557]
+"CercadE: [EmployeeShift@3d0f8e03, EmployeeShift@6366ebe0, EmployeeShift@44f75083, EmployeeShift@2698dc7, EmployeeShift@43d7741f, EmployeeShift@17baae6e, EmployeeShift@69379752, EmployeeShift@27fe3806, EmployeeShift@5f71c76a, EmployeeShift@1d7acb34, EmployeeShift@48a242ce, EmployeeShift@1e4a7dd4, EmployeeShift@4f51b3e0, EmployeeShift@4b9e255, EmployeeShift@5e57643e, EmployeeShift@133e16fd, EmployeeShift@51b279c9, EmployeeShift@1ad282e0, EmployeeShift@7f416310, EmployeeShift@1cab0bfb, EmployeeShift@5e955596, EmployeeShift@50de0926, EmployeeShift@2473b9ce, EmployeeShift@60438a68, EmployeeShift@140e5a13, EmployeeShift@3439f68d, EmployeeShift@dbd940d, EmployeeShift@71d15f18, EmployeeShift@17695df3, EmployeeShift@6c9f5c0d, EmployeeShift@de3a06f, EmployeeShift@76b10754, EmployeeShift@2bea5ab4, EmployeeShift@3d8314f0, EmployeeShift@2df32bf7, EmployeeShift@530612ba, EmployeeShift@2a40cd94]  
+"CcRAWWeX: [EmployeeShift@f4168b8, EmployeeShift@3bd94634, EmployeeShift@58a90037, EmployeeShift@74294adb, EmployeeShift@70a9f84e, EmployeeShift@130f889, EmployeeShift@1188e820, EmployeeShift@2f490758, EmployeeShift@101df177, EmployeeShift@166fa74d, EmployeeShift@40f08448, EmployeeShift@276438c9, EmployeeShift@588df31b, EmployeeShift@33b37288, EmployeeShift@77a57272, EmployeeShift@7181ae3f, EmployeeShift@46238e3f, EmployeeShift@6e2c9341]
+"PearsEW: [EmployeeShift@32464a14]
+"IWGEAa: [EmployeeShift@4e4aea35, EmployeeShift@1442d7b5, EmployeeShift@1efee8e7, EmployeeShift@1ee807c6, EmployeeShift@76a4d6c, EmployeeShift@517cd4b, EmployeeShift@6cc7b4de, EmployeeShift@32cf48b7, EmployeeShift@679b62af, EmployeeShift@5cdd8682, EmployeeShift@d6da883, EmployeeShift@45afc369]
+"ErEzcE: [EmployeeShift@799d4f69, EmployeeShift@49c43f4e, EmployeeShift@290dbf45, EmployeeShift@12028586, EmployeeShift@17776a8, EmployeeShift@69a10787, EmployeeShift@2d127a61, EmployeeShift@2bbaf4f0, EmployeeShift@11c20519, EmployeeShift@70beb599, EmployeeShift@4e41089d, EmployeeShift@32a068d1, EmployeeShift@33cb5951, EmployeeShift@365c30cc, EmployeeShift@701fc37a]
+Employees who worked for 7 consecutive days:
+"HerWaWdez SaWchez (WFS000581)
+"CeWdEza (WFS000465)
+"ArevaXE (WFS000491)
+"WiXXiaCs (WFS000511)
+"HaCiXMEW (WFS000536)
+"VasqAez (WFS000391)
+"Xee (WFS000200)
+"DiWh (WFS000268)
+"Caxies (WFS000500)
+"Diaz GaXvez (WFS000551)
+"DECiWgAez AviWa (WFS000569)
+"Perez (WFS000517)
+"DeXgadiXXE REdarMe (WFS000523)
+"AXcEcer (WFS000541)
+"VaXderraCa CasMiXXE (WFS000573)
+"CaraGiXXa (WFS000514)
+"JerEWiCE CEraXes (WFS000557)
+"ChaCErE (WFS000509)
+"EXivares (WFS000508)
+"AGeX (WFS000588)
+"PayaW (WFS000368)
+"SiWgh (WFS000054)
+"WgAyeW (WFS000589)
+"SaWchez (WFS000577)
+"FaGiaW CiraWda (WFS000530)
+"SaWchez PaCpXEWa (WFS000521)
+"SavaWg (WFS000393)
+"HAWMer (WFS000538)
+"CAevas ZavaXa (WFS000571)
+"XariEs (WFS000587)
+"GAMierrez (WFS000579)
+"ViXXa (WFS000583)
+"CesiWa CEreWE (WFS000548)
+"MraW (WFS000345)
+"PaAXE (WFS000460)
+"GrACfieXd (WFS000515)
+"PaXaciE (WFS000434)
+"Arias (WFS000170)
+"XariEs XaWdaverde (WFS000572)
+"HerCEsiXXE (WFS000185)
+"GAeWdia (WFS000473)
+"CaMaXaWE (WFS000153)
+"GaXCes (WFS000127)
+"HEGGie ErMega (WFS000549)
+"CeciWa (WFS000528)
+"DiXXard (WFS000519)
+"CiGriaW DeXgadE (WFS000574)
+"Rivera AXcaWMar (WFS000507)
+"AXvarez (WFS000457)
+"CaMXEck (WFS000362)
+"PerkiWs (WFS000469)
+"REdrigAez (WFS000336)
+"XiWW (WFS000462)
+"XEpez WAWez (WFS000522)
+"MaXeGi (WFS000364)
+"RAvaXcaGa GaWAeXEs (WFS000556)
+"CaXdEWadE (WFS000463)
+"SiWgXeMEW (WFS000426)
+"ArCeWMa FXEres (WFS000584)
+"CEreira Jr (WFS000456)
+"REsaXiaWE (WFS000065)
+"CErMes (WFS000495)
+"ZaCEra (WFS000477)
+"MAake (WFS000228)
+"Merrazas (WFS000180)
+"SMrickXaWd (WFS000555)
+"GarWes (WFS000181)
+"CEMMa (WFS000503)
+"FeXix (WFS000183)
+"ArrAMia (WFS000518)
+"ErMiz (WFS000372)
+"EsMrada (WFS000552)
+"ErEpeza (WFS000382)
+"De Xa Cerda (WFS000318)
+"MAcker (WFS000360)
+"ArEsMigAi (WFS000306)
+"EasMCaW (WFS000414)
+"Sparks (WFS000101)
+"RaCEs HerWaWdez (WFS000585)
+"De XEs SaWMEs (WFS000582)
+"GaWks (WFS000226)
+"CercadE (WFS000446)
+"CcRAWWeX (WFS000501)
+"IWGEAa (WFS000546)
+"ErEzcE (WFS000442)
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+"HaCiXMEW (WFS000536)
+"Xee (WFS000200)
+"DeXgadiXXE REdarMe (WFS000523)
+"MraW (WFS000345)
+"CaMaXaWE (WFS000153)
+"CEreira Jr (WFS000456)
+"De Xa Cerda (WFS000318)
+
+Employees who worked for more than 14 hours in a single shift:
+"DeXgadiXXE REdarMe (WFS000523)
+Employee Data:
+"HerWaWdez SaWchez: [EmployeeShift@5b6f7412, EmployeeShift@27973e9b, EmployeeShift@312b1dae, EmployeeShift@7530d0a, EmployeeShift@27bc2616, EmployeeShift@3941a79c, EmployeeShift@506e1b77, EmployeeShift@4fca772d, EmployeeShift@9807454, EmployeeShift@3d494fbf, EmployeeShift@1ddc4ec2, EmployeeShift@133314b, EmployeeShift@b1bc7ed, EmployeeShift@7cd84586, EmployeeShift@30dae81, EmployeeShift@1b2c6ec2, EmployeeShift@4edde6e5, EmployeeShift@70177ecd, EmployeeShift@1e80bfe8]
+"CeWdEza: [EmployeeShift@300ffa5d, EmployeeShift@1f17ae12, EmployeeShift@4d405ef7, EmployeeShift@6193b845, EmployeeShift@2e817b38, EmployeeShift@c4437c4, EmployeeShift@433c675d]
+"ArevaXE: [EmployeeShift@3f91beef, EmployeeShift@1a6c5a9e, EmployeeShift@37bba400, EmployeeShift@179d3b25, EmployeeShift@254989ff, EmployeeShift@5d099f62, EmployeeShift@37f8bb67, EmployeeShift@49c2faae, EmployeeShift@20ad9418, EmployeeShift@31cefde0, EmployeeShift@439f5b3d, EmployeeShift@1d56ce6a, EmployeeShift@5197848c, EmployeeShift@17f052a3, EmployeeShift@2e0fa5d3, EmployeeShift@5010be6, EmployeeShift@685f4c2e, EmployeeShift@7daf6ecc]
+"WiXXiaCs: [EmployeeShift@2e5d6d97, EmployeeShift@238e0d81, EmployeeShift@31221be2, EmployeeShift@377dca04, EmployeeShift@728938a9, EmployeeShift@21b8d17c, EmployeeShift@6433a2, EmployeeShift@5910e440, EmployeeShift@6267c3bb, EmployeeShift@533ddba, EmployeeShift@246b179d, EmployeeShift@7a07c5b4, EmployeeShift@26a1ab54, EmployeeShift@3d646c37, EmployeeShift@41cf53f9, EmployeeShift@5a10411, EmployeeShift@2ef1e4fa, EmployeeShift@306a30c7, EmployeeShift@b81eda8]
+"HaCiXMEW: [EmployeeShift@68de145, EmployeeShift@27fa135a, EmployeeShift@46f7f36a, EmployeeShift@421faab1, EmployeeShift@2b71fc7e, EmployeeShift@5ce65a89, EmployeeShift@25f38edc, EmployeeShift@1a86f2f1, EmployeeShift@3eb07fd3, EmployeeShift@506c589e, EmployeeShift@69d0a921, EmployeeShift@446cdf90]
+"VasqAez: [EmployeeShift@799f7e29, EmployeeShift@4b85612c, EmployeeShift@277050dc, EmployeeShift@5c29bfd, EmployeeShift@7aec35a, EmployeeShift@67424e82, EmployeeShift@42110406, EmployeeShift@531d72ca, EmployeeShift@22d8cfe0, EmployeeShift@579bb367, EmployeeShift@1de0aca6, EmployeeShift@255316f2, EmployeeShift@41906a77, EmployeeShift@4b9af9a9, EmployeeShift@5387f9e0, EmployeeShift@6e5e91e4, EmployeeShift@2cdf8d8a, EmployeeShift@30946e09, EmployeeShift@5cb0d902, EmployeeShift@46fbb2c1, EmployeeShift@1698c449, EmployeeShift@5ef04b5, EmployeeShift@5f4da5c3, EmployeeShift@443b7951, EmployeeShift@14514713, EmployeeShift@69663380]
+"Xee: [EmployeeShift@5b37e0d2, EmployeeShift@4459eb14, EmployeeShift@5a2e4553, EmployeeShift@28c97a5, EmployeeShift@6659c656, EmployeeShift@6d5380c2, EmployeeShift@45ff54e6, EmployeeShift@2328c243, EmployeeShift@bebdb06, EmployeeShift@7a4f0f29, EmployeeShift@45283ce2, EmployeeShift@2077d4de, EmployeeShift@7591083d, EmployeeShift@77a567e1, EmployeeShift@736e9adb, EmployeeShift@6d21714c, EmployeeShift@108c4c35, EmployeeShift@4ccabbaa, EmployeeShift@4bf558aa, EmployeeShift@2d38eb89, EmployeeShift@5fa7e7ff, EmployeeShift@4629104a]
+"RECerE: [EmployeeShift@27f8302d, EmployeeShift@4d76f3f8, EmployeeShift@2d8e6db6]
+"DiWh: [EmployeeShift@23ab930d, EmployeeShift@4534b60d, EmployeeShift@3fa77460, EmployeeShift@619a5dff, EmployeeShift@1ed6993a, EmployeeShift@7e32c033, EmployeeShift@7ab2bfe1, EmployeeShift@497470ed, EmployeeShift@63c12fb0, EmployeeShift@b1a58a3, EmployeeShift@6438a396, EmployeeShift@e2144e4, EmployeeShift@6477463f, EmployeeShift@3d71d552, EmployeeShift@1cf4f579, EmployeeShift@18769467, EmployeeShift@46ee7fe8]
+"Caxies: [EmployeeShift@7506e922, EmployeeShift@4ee285c6, EmployeeShift@621be5d1, EmployeeShift@573fd745, EmployeeShift@15327b79, EmployeeShift@4f2410ac, EmployeeShift@722c41f4, EmployeeShift@5b80350b, EmployeeShift@5d6f64b1, EmployeeShift@32a1bec0, EmployeeShift@22927a81, EmployeeShift@78e03bb5, EmployeeShift@5e8c92f4, EmployeeShift@61e4705b, EmployeeShift@50134894, EmployeeShift@2957fcb0, EmployeeShift@1376c05c, EmployeeShift@51521cc1, EmployeeShift@1b4fb997, EmployeeShift@deb6432]
+"Diaz GaXvez: [EmployeeShift@28ba21f3, EmployeeShift@694f9431, EmployeeShift@f2a0b8e, EmployeeShift@593634ad, EmployeeShift@20fa23c1, EmployeeShift@3581c5f3, EmployeeShift@6aa8ceb6, EmployeeShift@2530c12, EmployeeShift@73c6c3b2, EmployeeShift@48533e64, EmployeeShift@64a294a6, EmployeeShift@7e0b37bc, EmployeeShift@3b95a09c, EmployeeShift@6ae40994, EmployeeShift@1a93a7ca, EmployeeShift@3d82c5f3, EmployeeShift@2b05039f, EmployeeShift@61e717c2, EmployeeShift@66cd51c3]
+"DECiWgAez AviWa: [EmployeeShift@4dcbadb4, EmployeeShift@4e515669, EmployeeShift@17d10166, EmployeeShift@1b9e1916, EmployeeShift@ba8a1dc, EmployeeShift@4f8e5cde, EmployeeShift@504bae78, EmployeeShift@3b764bce, EmployeeShift@759ebb3d, EmployeeShift@484b61fc, EmployeeShift@45fe3ee3, EmployeeShift@4cdf35a9, EmployeeShift@4c98385c, EmployeeShift@5fcfe4b2, EmployeeShift@6bf2d08e]       
+"Perez: [EmployeeShift@5eb5c224, EmployeeShift@53e25b76, EmployeeShift@73a8dfcc, EmployeeShift@ea30797, EmployeeShift@7e774085, EmployeeShift@3f8f9dd6, EmployeeShift@aec6354, EmployeeShift@1c655221, EmployeeShift@58d25a40, EmployeeShift@1b701da1, EmployeeShift@726f3b58, EmployeeShift@442d9b6e, EmployeeShift@ee7d9f1, EmployeeShift@15615099, EmployeeShift@1edf1c96, EmployeeShift@368102c8, EmployeeShift@6996db8]
+"DeXgadiXXE REdarMe: [EmployeeShift@1963006a, EmployeeShift@7fbe847c, EmployeeShift@41975e01, EmployeeShift@c2e1f26, EmployeeShift@dcf3e99, EmployeeShift@6d9c638, EmployeeShift@7dc5e7b4, EmployeeShift@1ee0005, EmployeeShift@75a1cd57, EmployeeShift@3d012ddd, EmployeeShift@6f2b958e, EmployeeShift@1eb44e46, EmployeeShift@6504e3b2, EmployeeShift@515f550a, EmployeeShift@626b2d4a, EmployeeShift@5e91993f, EmployeeShift@1c4af82c, EmployeeShift@379619aa]
+"AXcEcer: [EmployeeShift@cac736f, EmployeeShift@5e265ba4, EmployeeShift@156643d4, EmployeeShift@123a439b, EmployeeShift@7de26db8, EmployeeShift@1175e2db, EmployeeShift@36aa7bc2, EmployeeShift@76ccd017, EmployeeShift@182decdb, EmployeeShift@26f0a63f, EmployeeShift@4361bd48, EmployeeShift@53bd815b, EmployeeShift@2401f4c3, EmployeeShift@7637f22, EmployeeShift@4926097b]
+"VaXderraCa CasMiXXE: [EmployeeShift@762efe5d, EmployeeShift@5d22bbb7, EmployeeShift@41a4555e, EmployeeShift@3830f1c0, EmployeeShift@39ed3c8d, EmployeeShift@71dac704, EmployeeShift@123772c4, EmployeeShift@2d363fb3, EmployeeShift@7d6f77cc, EmployeeShift@5aaa6d82, EmployeeShift@73a28541]
+"SEMEsEXis: [EmployeeShift@6f75e721]
+"CaraGiXXa: [EmployeeShift@69222c14, EmployeeShift@606d8acf, EmployeeShift@782830e, EmployeeShift@470e2030, EmployeeShift@3fb4f649, EmployeeShift@33833882, EmployeeShift@200a570f]
+"JerEWiCE CEraXes: [EmployeeShift@16b3fc9e, EmployeeShift@e2d56bf, EmployeeShift@244038d0, EmployeeShift@5680a178, EmployeeShift@5fdef03a, EmployeeShift@3b22cdd0, EmployeeShift@1e81f4dc, EmployeeShift@4d591d15, EmployeeShift@65ae6ba4, EmployeeShift@48cf768c, EmployeeShift@59f95c5d, EmployeeShift@5ccd43c2, EmployeeShift@4aa8f0b4, EmployeeShift@7960847b]
+"ChaCErE: [EmployeeShift@6a6824be, EmployeeShift@5c8da962, EmployeeShift@512ddf17, EmployeeShift@2c13da15, EmployeeShift@77556fd, EmployeeShift@368239c8, EmployeeShift@9e89d68, EmployeeShift@3b192d32, EmployeeShift@16f65612, EmployeeShift@311d617d, EmployeeShift@7c53a9eb, EmployeeShift@ed17bee, EmployeeShift@2a33fae0, EmployeeShift@707f7052, EmployeeShift@11028347, EmployeeShift@14899482, EmployeeShift@21588809, EmployeeShift@2aae9190]
+"EXivares: [EmployeeShift@2f333739, EmployeeShift@77468bd9, EmployeeShift@12bb4df8, EmployeeShift@4cc77c2e, EmployeeShift@7a7b0070, EmployeeShift@39a054a5, EmployeeShift@71bc1ae4, EmployeeShift@6ed3ef1, EmployeeShift@2437c6dc, EmployeeShift@1f89ab83, EmployeeShift@e73f9ac, EmployeeShift@61064425, EmployeeShift@7b1d7fff, EmployeeShift@299a06ac, EmployeeShift@383534aa, EmployeeShift@6bc168e5, EmployeeShift@7b3300e5, EmployeeShift@2e5c649]
+"AGeX: [EmployeeShift@136432db, EmployeeShift@7382f612, EmployeeShift@1055e4af, EmployeeShift@3caeaf62, EmployeeShift@e6ea0c6, EmployeeShift@6a38e57f, EmployeeShift@5577140b, EmployeeShift@1c6b6478, EmployeeShift@67f89fa3, EmployeeShift@4ac68d3e]
+"PayaW: [EmployeeShift@277c0f21, EmployeeShift@6073f712, EmployeeShift@43556938, EmployeeShift@3d04a311, EmployeeShift@7a46a697, EmployeeShift@5f205aa, EmployeeShift@6d86b085, EmployeeShift@75828a0f, EmployeeShift@3abfe836, EmployeeShift@2ff5659e, EmployeeShift@77afea7d, EmployeeShift@161cd475, EmployeeShift@532760d8, EmployeeShift@57fa26b7, EmployeeShift@5f8ed237, EmployeeShift@2f410acf]
+"SiWgh: [EmployeeShift@47089e5f, EmployeeShift@4141d797, EmployeeShift@68f7aae2, EmployeeShift@4f47d241, EmployeeShift@4c3e4790, EmployeeShift@38cccef, EmployeeShift@5679c6c6, EmployeeShift@27ddd392, EmployeeShift@19e1023e, EmployeeShift@7cef4e59, EmployeeShift@64b8f8f4, EmployeeShift@2db0f6b2, EmployeeShift@3cd1f1c8, EmployeeShift@3a4afd8d, EmployeeShift@1996cd68, EmployeeShift@3339ad8e, EmployeeShift@555590, EmployeeShift@6d1e7682, EmployeeShift@424c0bc4, EmployeeShift@3c679bde, EmployeeShift@16b4a017, EmployeeShift@8807e25, EmployeeShift@2a3046da, EmployeeShift@2a098129, EmployeeShift@198e2867, EmployeeShift@12f40c25, EmployeeShift@3ada9e37, EmployeeShift@5cbc508c, EmployeeShift@3419866c, EmployeeShift@63e31ee, EmployeeShift@68fb2c38, EmployeeShift@567d299b, EmployeeShift@2eafffde, EmployeeShift@59690aa4, EmployeeShift@6842775d, EmployeeShift@574caa3f, EmployeeShift@64cee07, EmployeeShift@1761e840, EmployeeShift@6c629d6e, EmployeeShift@5ecddf8f, EmployeeShift@3f102e87, EmployeeShift@27abe2cd, EmployeeShift@5f5a92bb, EmployeeShift@6fdb1f78, EmployeeShift@51016012, EmployeeShift@29444d75, EmployeeShift@2280cdac, EmployeeShift@1517365b]
+"ArveXE RECerE: [EmployeeShift@4fccd51b]
+"WgAyeW: [EmployeeShift@44e81672, EmployeeShift@60215eee, EmployeeShift@4ca8195f, EmployeeShift@65e579dc, EmployeeShift@61baa894, EmployeeShift@b065c63, EmployeeShift@768debd, EmployeeShift@490d6c15, EmployeeShift@7d4793a8, EmployeeShift@449b2d27]
+"SaWchez: [EmployeeShift@5479e3f, EmployeeShift@27082746, EmployeeShift@66133adc, EmployeeShift@7bfcd12c, EmployeeShift@42f30e0a, EmployeeShift@24273305, EmployeeShift@5b1d2887, EmployeeShift@46f5f779, EmployeeShift@1c2c22f3, EmployeeShift@18e8568, EmployeeShift@33e5ccce, EmployeeShift@5a42bbf4]
+"FaGiaW CiraWda: [EmployeeShift@270421f5, EmployeeShift@52d455b8, EmployeeShift@4f4a7090, EmployeeShift@18ef96, EmployeeShift@6956de9, EmployeeShift@769c9116, EmployeeShift@6aceb1a5, EmployeeShift@2d6d8735, EmployeeShift@ba4d54]
+"SaWchez PaCpXEWa: [EmployeeShift@12bc6874, EmployeeShift@de0a01f, EmployeeShift@4c75cab9, EmployeeShift@1ef7fe8e, EmployeeShift@6f79caec, EmployeeShift@67117f44, EmployeeShift@5d3411d, EmployeeShift@2471cca7, EmployeeShift@5fe5c6f, EmployeeShift@6979e8cb]
+"SavaWg: [EmployeeShift@763d9750, EmployeeShift@5c0369c4, EmployeeShift@2be94b0f, EmployeeShift@d70c109, EmployeeShift@17ed40e0, EmployeeShift@50675690, EmployeeShift@31b7dea0, EmployeeShift@3ac42916, EmployeeShift@47d384ee, EmployeeShift@2d6a9952, EmployeeShift@22a71081, EmployeeShift@3930015a]
+"HAWMer: [EmployeeShift@629f0666, EmployeeShift@1bc6a36e, EmployeeShift@1ff8b8f, EmployeeShift@387c703b, EmployeeShift@224aed64, EmployeeShift@c39f790, EmployeeShift@71e7a66b]
+"CAevas ZavaXa: [EmployeeShift@2ac1fdc4, EmployeeShift@5f150435, EmployeeShift@1c53fd30, EmployeeShift@50cbc42f, EmployeeShift@75412c2f, EmployeeShift@282ba1e, EmployeeShift@13b6d03, EmployeeShift@f5f2bb7, EmployeeShift@73035e27, EmployeeShift@64c64813, EmployeeShift@3ecf72fd, EmployeeShift@483bf400, EmployeeShift@21a06946, EmployeeShift@77f03bb1, EmployeeShift@326de728, EmployeeShift@25618e91, EmployeeShift@7a92922, EmployeeShift@71f2a7d5]
+"Ware: [EmployeeShift@2cfb4a64]
+"XariEs: [EmployeeShift@5474c6c, EmployeeShift@4b6995df, EmployeeShift@2fc14f68, EmployeeShift@591f989e, EmployeeShift@66048bfd, EmployeeShift@61443d8f, EmployeeShift@445b84c0, EmployeeShift@61a52fbd, EmployeeShift@233c0b17, EmployeeShift@63d4e2ba, EmployeeShift@7bb11784, EmployeeShift@33a10788, EmployeeShift@7006c658, EmployeeShift@34033bd0, EmployeeShift@47fd17e3, EmployeeShift@7cdbc5d3, EmployeeShift@3aa9e816, EmployeeShift@17d99928, EmployeeShift@3834d63f, EmployeeShift@1ae369b7]
+"GAMierrez: [EmployeeShift@6fffcba5, EmployeeShift@34340fab, EmployeeShift@2aafb23c, EmployeeShift@2b80d80f, EmployeeShift@3ab39c39, EmployeeShift@2eee9593, EmployeeShift@7907ec20, EmployeeShift@546a03af, EmployeeShift@721e0f4f, EmployeeShift@28864e92, EmployeeShift@6ea6d14e, EmployeeShift@6ad5c04e, EmployeeShift@6833ce2c, EmployeeShift@725bef66]
+"WiXGard: [EmployeeShift@2aaf7cc2]
+"ViXXa: [EmployeeShift@6e3c1e69, EmployeeShift@1888ff2c, EmployeeShift@35851384, EmployeeShift@649d209a, EmployeeShift@6adca536, EmployeeShift@357246de, EmployeeShift@28f67ac7, EmployeeShift@256216b3, EmployeeShift@2a18f23c, EmployeeShift@d7b1517, EmployeeShift@16c0663d]
+"CesiWa CEreWE: [EmployeeShift@23223dd8, EmployeeShift@4ec6a292, EmployeeShift@1b40d5f0, EmployeeShift@ea4a92b, EmployeeShift@3c5a99da, EmployeeShift@47f37ef1, EmployeeShift@5a01ccaa, EmployeeShift@71c7db30, EmployeeShift@19bb089b, EmployeeShift@4563e9ab, EmployeeShift@11531931, EmployeeShift@5e025e70, EmployeeShift@1fbc7afb, EmployeeShift@45c8e616]
+"MraW: [EmployeeShift@4cdbe50f, EmployeeShift@66d33a, EmployeeShift@7cf10a6f, EmployeeShift@7e0babb1, EmployeeShift@6debcae2, EmployeeShift@5ba23b66, EmployeeShift@2ff4f00f, EmployeeShift@c818063, EmployeeShift@3f0ee7cb, EmployeeShift@75bd9247, EmployeeShift@7d417077, EmployeeShift@7dc36524, EmployeeShift@35bbe5e8, EmployeeShift@2c8d66b2, EmployeeShift@5a39699c, EmployeeShift@3cb5cdba, EmployeeShift@56cbfb61, EmployeeShift@1134affc, EmployeeShift@d041cf, EmployeeShift@129a8472, EmployeeShift@1b0375b3]      
+"PaAXE: [EmployeeShift@2f7c7260, EmployeeShift@2d209079, EmployeeShift@6bdf28bb, EmployeeShift@6b71769e, EmployeeShift@2752f6e2, EmployeeShift@e580929, EmployeeShift@1cd072a9, EmployeeShift@7c75222b, EmployeeShift@4c203ea1, EmployeeShift@27f674d, EmployeeShift@1d251891]
+"CharXes: [EmployeeShift@48140564, EmployeeShift@58ceff1, EmployeeShift@7c30a502, EmployeeShift@49e4cb85, EmployeeShift@2133c8f8]
+"REiz: [EmployeeShift@43a25848]
+"GrACfieXd: [EmployeeShift@3ac3fd8b, EmployeeShift@5594a1b5, EmployeeShift@6a5fc7f7, EmployeeShift@3b6eb2ec, EmployeeShift@1e643faf, EmployeeShift@6e8dacdf, EmployeeShift@7a79be86, EmployeeShift@34ce8af7, EmployeeShift@b684286, EmployeeShift@880ec60, EmployeeShift@3f3afe78, EmployeeShift@7f63425a, EmployeeShift@36d64342, EmployeeShift@39ba5a14, EmployeeShift@511baa65, EmployeeShift@340f438e, EmployeeShift@30c7da1e]
+"PaXaciE: [EmployeeShift@5b464ce8, EmployeeShift@57829d67, EmployeeShift@19dfb72a, EmployeeShift@17c68925, EmployeeShift@7e0ea639, EmployeeShift@3d24753a, EmployeeShift@59a6e353, EmployeeShift@7a0ac6e3, EmployeeShift@71be98f5, EmployeeShift@6fadae5d, EmployeeShift@17f6480, EmployeeShift@2d6e8792, EmployeeShift@2812cbfa, EmployeeShift@2acf57e3, EmployeeShift@506e6d5e, EmployeeShift@96532d6]
+"Arias: [EmployeeShift@3796751b, EmployeeShift@67b64c45, EmployeeShift@4411d970, EmployeeShift@6442b0a6, EmployeeShift@60f82f98, EmployeeShift@35f983a6, EmployeeShift@7f690630, EmployeeShift@edf4efb, EmployeeShift@2f7a2457, EmployeeShift@566776ad, EmployeeShift@6108b2d7, EmployeeShift@1554909b, EmployeeShift@6bf256fa, EmployeeShift@6cd8737, EmployeeShift@22f71333, EmployeeShift@13969fbe, EmployeeShift@6aaa5eb0, EmployeeShift@3498ed]
+"XariEs XaWdaverde: [EmployeeShift@1a407d53, EmployeeShift@3d8c7aca, EmployeeShift@5ebec15, EmployeeShift@21bcffb5, EmployeeShift@380fb434, EmployeeShift@668bc3d5, EmployeeShift@3cda1055, EmployeeShift@7a5d012c, EmployeeShift@3fb6a447, EmployeeShift@79b4d0f, EmployeeShift@6b2fad11, EmployeeShift@79698539, EmployeeShift@73f792cf, EmployeeShift@2ed94a8b, EmployeeShift@38082d64, EmployeeShift@dfd3711, EmployeeShift@42d3bd8b, EmployeeShift@26ba2a48]
+"HerCEsiXXE: [EmployeeShift@5f2050f6, EmployeeShift@3b81a1bc, EmployeeShift@64616ca2, EmployeeShift@13fee20c, EmployeeShift@4e04a765, EmployeeShift@783e6358, EmployeeShift@17550481, EmployeeShift@735f7ae5, EmployeeShift@180bc464, EmployeeShift@1324409e, EmployeeShift@2c6a3f77, EmployeeShift@246ae04d, EmployeeShift@62043840, EmployeeShift@5315b42e, EmployeeShift@2ef9b8bc, EmployeeShift@5d624da6, EmployeeShift@1e67b872, EmployeeShift@60addb54, EmployeeShift@3f2a3a5]
+"GAeWdia: [EmployeeShift@4cb2c100, EmployeeShift@6fb554cc, EmployeeShift@614c5515, EmployeeShift@77b52d12, EmployeeShift@2d554825, EmployeeShift@68837a77, EmployeeShift@6be46e8f, EmployeeShift@3567135c, EmployeeShift@327471b5, EmployeeShift@4157f54e, EmployeeShift@90f6bfd, EmployeeShift@47f6473, EmployeeShift@15975490, EmployeeShift@6b143ee9, EmployeeShift@1936f0f5, EmployeeShift@6615435c, EmployeeShift@4909b8da, EmployeeShift@3a03464, EmployeeShift@2d3fcdbd, EmployeeShift@617c74e5, EmployeeShift@6537cf78, EmployeeShift@67b6d4ae]
+"CaMaXaWE: [EmployeeShift@34b7bfc0, EmployeeShift@366e2eef, EmployeeShift@6df97b55, EmployeeShift@3cbbc1e0, EmployeeShift@35fb3008, EmployeeShift@7225790e, EmployeeShift@54a097cc, EmployeeShift@36f6e879, EmployeeShift@5a61f5df, EmployeeShift@3551a94, EmployeeShift@531be3c5, EmployeeShift@52af6cff, EmployeeShift@735b478, EmployeeShift@2c9f9fb0, EmployeeShift@2096442d, EmployeeShift@9f70c54, EmployeeShift@234bef66, EmployeeShift@737996a0, EmployeeShift@61dc03ce]
+"GaXCes: [EmployeeShift@50f8360d, EmployeeShift@2cb4c3ab, EmployeeShift@13c78c0b, EmployeeShift@12843fce, EmployeeShift@3dd3bcd, EmployeeShift@97e1986, EmployeeShift@26f67b76, EmployeeShift@153f5a29, EmployeeShift@7f560810, EmployeeShift@69d9c55, EmployeeShift@13a57a3b, EmployeeShift@7ca48474]
+"HEGGie ErMega: [EmployeeShift@337d0578, EmployeeShift@59e84876, EmployeeShift@61a485d2, EmployeeShift@39fb3ab6, EmployeeShift@6276ae34, EmployeeShift@7946e1f4, EmployeeShift@3c09711b, EmployeeShift@5cc7c2a6, EmployeeShift@b97c004, EmployeeShift@4590c9c3, EmployeeShift@32e6e9c3, EmployeeShift@5056dfcb, EmployeeShift@6574b225, EmployeeShift@2669b199]
+"CeciWa: [EmployeeShift@2344fc66, EmployeeShift@458ad742, EmployeeShift@5afa04c, EmployeeShift@6ea12c19, EmployeeShift@6a024a67, EmployeeShift@7921b0a2, EmployeeShift@174d20a, EmployeeShift@66d2e7d9, EmployeeShift@1efbd816, EmployeeShift@6a2bcfcb, EmployeeShift@4de8b406, EmployeeShift@3c756e4d]
+"DiXXard: [EmployeeShift@7c0e2abd, EmployeeShift@48eff760, EmployeeShift@402f32ff, EmployeeShift@573f2bb1, EmployeeShift@5ae9a829, EmployeeShift@6d8a00e3, EmployeeShift@548b7f67, EmployeeShift@7ac7a4e4, EmployeeShift@6d78f375, EmployeeShift@50c87b21, EmployeeShift@5f375618, EmployeeShift@1810399e, EmployeeShift@32d992b2, EmployeeShift@215be6bb, EmployeeShift@4439f31e, EmployeeShift@5dfcfece, EmployeeShift@23ceabc1, EmployeeShift@5d5eef3d, EmployeeShift@56f4468b, EmployeeShift@6cc4c815]
+"XEpes: [EmployeeShift@3a82f6ef]
+"MErres: [EmployeeShift@100fc185]
+"CiGriaW DeXgadE: [EmployeeShift@643b1d11, EmployeeShift@2ef5e5e3, EmployeeShift@36d4b5c, EmployeeShift@6d00a15d, EmployeeShift@51efea79, EmployeeShift@5034c75a, EmployeeShift@396a51ab]
+"Rivera AXcaWMar: [EmployeeShift@51081592, EmployeeShift@7f9a81e8, EmployeeShift@9629756, EmployeeShift@62ee68d8, EmployeeShift@735b5592, EmployeeShift@58651fd0, EmployeeShift@4520ebad, EmployeeShift@5419f379, EmployeeShift@7dc7cbad, EmployeeShift@d2cc05a, EmployeeShift@4f933fd1]
+"AXvarez: [EmployeeShift@548a9f61, EmployeeShift@1753acfe, EmployeeShift@7c16905e, EmployeeShift@2a2d45ba, EmployeeShift@2a5ca609, EmployeeShift@20e2cbe0, EmployeeShift@68be2bc2, EmployeeShift@28feb3fa, EmployeeShift@675d3402, EmployeeShift@51565ec2, EmployeeShift@482f8f11, EmployeeShift@1593948d, EmployeeShift@1b604f19, EmployeeShift@7823a2f9, EmployeeShift@4cc0edeb, EmployeeShift@457e2f02, EmployeeShift@5c7fa833, EmployeeShift@39aeed2f, EmployeeShift@724af044, EmployeeShift@4678c730]
+"CaMXEck: [EmployeeShift@6767c1fc, EmployeeShift@29ee9faa, EmployeeShift@c038203, EmployeeShift@cc285f4, EmployeeShift@55f3ddb1, EmployeeShift@8bd1b6a, EmployeeShift@18be83e4, EmployeeShift@cb5822, EmployeeShift@4b9e13df, EmployeeShift@2b98378d, EmployeeShift@475530b9, EmployeeShift@1d057a39, EmployeeShift@26be92ad, EmployeeShift@4c70fda8, EmployeeShift@224edc67, EmployeeShift@14acaea5, EmployeeShift@46d56d67, EmployeeShift@d8355a8]
+"PerkiWs: [EmployeeShift@59fa1d9b, EmployeeShift@28d25987, EmployeeShift@4501b7af, EmployeeShift@523884b2, EmployeeShift@5b275dab, EmployeeShift@61832929, EmployeeShift@29774679, EmployeeShift@3ffc5af1, EmployeeShift@5e5792a0, EmployeeShift@26653222, EmployeeShift@3532ec19, EmployeeShift@68c4039c, EmployeeShift@ae45eb6, EmployeeShift@59f99ea, EmployeeShift@27efef64]
+"REdrigAez: [EmployeeShift@6f7fd0e6, EmployeeShift@47c62251, EmployeeShift@3e6fa38a, EmployeeShift@66a3ffec, EmployeeShift@77caeb3e, EmployeeShift@1e88b3c, EmployeeShift@42d80b78, EmployeeShift@3bfdc050, EmployeeShift@1bce4f0a, EmployeeShift@5e3a8624, EmployeeShift@5c3bd550, EmployeeShift@91161c7, EmployeeShift@604ed9f0, EmployeeShift@6a4f787b, EmployeeShift@685cb137, EmployeeShift@6a41eaa2, EmployeeShift@7cd62f43, EmployeeShift@6d4b1c02, EmployeeShift@6093dd95, EmployeeShift@5622fdf, EmployeeShift@4883b407, EmployeeShift@7d9d1a19, EmployeeShift@39c0f4a, EmployeeShift@1794d431, EmployeeShift@42e26948, EmployeeShift@57baeedf, EmployeeShift@343f4d3d, EmployeeShift@53b32d7, EmployeeShift@5442a311, EmployeeShift@548e7350, EmployeeShift@1a968a59, EmployeeShift@4667ae56, EmployeeShift@77cd7a0, EmployeeShift@204f30ec, EmployeeShift@e25b2fe, EmployeeShift@754ba872, EmployeeShift@146ba0ac, EmployeeShift@4dfa3a9d, EmployeeShift@6eebc39e, EmployeeShift@464bee09, EmployeeShift@f6c48ac, EmployeeShift@13deb50e, EmployeeShift@239963d8, EmployeeShift@3abbfa04, EmployeeShift@57fffcd7, EmployeeShift@31ef45e3, EmployeeShift@598067a5, EmployeeShift@3c0ecd4b, EmployeeShift@14bf9759, EmployeeShift@5f341870, EmployeeShift@553f17c, EmployeeShift@4f7d0008, EmployeeShift@271053e1, EmployeeShift@589838eb, EmployeeShift@42dafa95, EmployeeShift@6500df86, EmployeeShift@402a079c, EmployeeShift@59ec2012, EmployeeShift@4cf777e8, EmployeeShift@2f686d1f, EmployeeShift@3fee9989]
+"XiWW: [EmployeeShift@73ad2d6, EmployeeShift@7085bdee, EmployeeShift@1ce92674, EmployeeShift@5700d6b1, EmployeeShift@6fd02e5, EmployeeShift@5bcab519, EmployeeShift@e45f292, EmployeeShift@5f2108b5, EmployeeShift@31a5c39e, EmployeeShift@3f49dace, EmployeeShift@1e397ed7, EmployeeShift@490ab905, EmployeeShift@56ac3a89, EmployeeShift@27c20538, EmployeeShift@72d818d1]
+"CarMer: [EmployeeShift@6e06451e, EmployeeShift@59494225]
+"XEpez WAWez: [EmployeeShift@6e1567f1, EmployeeShift@5cb9f472, EmployeeShift@cb644e, EmployeeShift@13805618, EmployeeShift@56ef9176, EmployeeShift@4566e5bd, EmployeeShift@1ed4004b, EmployeeShift@ff5b51f, EmployeeShift@25bbe1b6, EmployeeShift@5702b3b1, EmployeeShift@69ea3742, EmployeeShift@4b952a2d, EmployeeShift@3159c4b8, EmployeeShift@73846619, EmployeeShift@4bec1f0c, EmployeeShift@29ca901e, EmployeeShift@5649fd9b, EmployeeShift@6adede5]
+"MaXeGi: [EmployeeShift@2d928643, EmployeeShift@5025a98f, EmployeeShift@49993335, EmployeeShift@20322d26, EmployeeShift@192b07fd, EmployeeShift@64bfbc86, EmployeeShift@64bf3bbf, EmployeeShift@55d56113, EmployeeShift@148080bb, EmployeeShift@dc24521, EmployeeShift@10bdf5e5, EmployeeShift@6e1ec318, EmployeeShift@7e0b0338, EmployeeShift@617faa95, EmployeeShift@1e127982]
+"RAvaXcaGa GaWAeXEs: [EmployeeShift@60c6f5b, EmployeeShift@2038ae61, EmployeeShift@3c0f93f1, EmployeeShift@31dc339b, EmployeeShift@544fe44c, EmployeeShift@31610302, EmployeeShift@71318ec4, EmployeeShift@21213b92, EmployeeShift@a67c67e, EmployeeShift@3327bd23, EmployeeShift@4e1d422d, EmployeeShift@66480dd7, EmployeeShift@52a86356, EmployeeShift@5ce81285, EmployeeShift@78c03f1f, EmployeeShift@5ec0a365, EmployeeShift@4fe3c938, EmployeeShift@5383967b]
+"CaXdEWadE: [EmployeeShift@2ac273d3, EmployeeShift@71423665, EmployeeShift@20398b7c, EmployeeShift@6fc6f14e, EmployeeShift@56235b8e, EmployeeShift@3632be31, EmployeeShift@5abca1e0, EmployeeShift@2286778, EmployeeShift@4e9ba398, EmployeeShift@6d7b4f4c, EmployeeShift@527740a2, EmployeeShift@13a5fe33, EmployeeShift@3108bc, EmployeeShift@370736d9, EmployeeShift@5f9d02cb, EmployeeShift@63753b6d, EmployeeShift@6b09bb57, EmployeeShift@6536e911, EmployeeShift@520a3426, EmployeeShift@18eed359, EmployeeShift@3e9b1010]
+"SiWgXeMEW: [EmployeeShift@6c3708b3, EmployeeShift@6f1fba17, EmployeeShift@185d8b6, EmployeeShift@67784306, EmployeeShift@335eadca, EmployeeShift@210366b4, EmployeeShift@eec5a4a, EmployeeShift@2b2948e2, EmployeeShift@6ddf90b0, EmployeeShift@57536d79, EmployeeShift@3b0143d3, EmployeeShift@5a8e6209, EmployeeShift@4b4523f8, EmployeeShift@731a74c, EmployeeShift@369f73a2, EmployeeShift@1f28c152, EmployeeShift@7d907bac, EmployeeShift@7791a895, EmployeeShift@3a5ed7a6, EmployeeShift@6325a3ee, EmployeeShift@1d16f93d]
+"ArCeWMa FXEres: [EmployeeShift@67b92f0a, EmployeeShift@2b9627bc, EmployeeShift@65e2dbf3, EmployeeShift@4f970963, EmployeeShift@61f8bee4, EmployeeShift@7b49cea0, EmployeeShift@887af79, EmployeeShift@7fac631b, EmployeeShift@5b87ed94, EmployeeShift@6e0e048a, EmployeeShift@5bc79255, EmployeeShift@47ef968d, EmployeeShift@23e028a9, EmployeeShift@3dd4520b, EmployeeShift@5ae63ade, EmployeeShift@610694f1, EmployeeShift@43814d18, EmployeeShift@5c5a1b69]
+"CEreira Jr: [EmployeeShift@3701eaf6, EmployeeShift@627551fb, EmployeeShift@2b552920, EmployeeShift@2758fe70, EmployeeShift@1f36e637, EmployeeShift@578486a3, EmployeeShift@551aa95a, EmployeeShift@35d176f7, EmployeeShift@1dfe2924, EmployeeShift@6ebc05a6, EmployeeShift@6e6c3152, EmployeeShift@50b494a6, EmployeeShift@3cef309d, EmployeeShift@32709393, EmployeeShift@3d99d22e, EmployeeShift@49fc609f, EmployeeShift@cd2dae5, EmployeeShift@3a883ce7]
+"REsaXiaWE: [EmployeeShift@4973813a, EmployeeShift@6321e813, EmployeeShift@79be0360, EmployeeShift@22a67b4, EmployeeShift@57855c9a, EmployeeShift@3b084709, EmployeeShift@3224f60b, EmployeeShift@63e2203c, EmployeeShift@1efed156, EmployeeShift@6737fd8f, EmployeeShift@72b6cbcc, EmployeeShift@a7e666, EmployeeShift@68bbe345, EmployeeShift@30b8a058, EmployeeShift@7494e528, EmployeeShift@4bbfb90a, EmployeeShift@7c29daf3, EmployeeShift@9660f4e, EmployeeShift@5a8806ef]
+"CErMes: [EmployeeShift@6c49835d, EmployeeShift@5e853265, EmployeeShift@67205a84, EmployeeShift@7d0587f1, EmployeeShift@5d76b067, EmployeeShift@2a17b7b6, EmployeeShift@4f063c0a, EmployeeShift@1e6d1014, EmployeeShift@76707e36, EmployeeShift@614ddd49, EmployeeShift@1f554b06, EmployeeShift@694e1548, EmployeeShift@1c3a4799, EmployeeShift@131276c2, EmployeeShift@26aa12dd, EmployeeShift@3fd7a715, EmployeeShift@711f39f9, EmployeeShift@71bbf57e, EmployeeShift@7f13d6e, EmployeeShift@51cdd8a, EmployeeShift@d44fc21]  
+"ZaCEra: [EmployeeShift@23faf8f2, EmployeeShift@2d6eabae, EmployeeShift@4e7dc304, EmployeeShift@64729b1e, EmployeeShift@10bbd20a, EmployeeShift@48503868, EmployeeShift@6895a785, EmployeeShift@184f6be2, EmployeeShift@56aac163, EmployeeShift@1f7030a6, EmployeeShift@5a1c0542, EmployeeShift@396f6598, EmployeeShift@394e1a0f, EmployeeShift@27a5f880, EmployeeShift@1d29cf23, EmployeeShift@5f282abb, EmployeeShift@167fdd33, EmployeeShift@1e965684, EmployeeShift@4d95d2a2, EmployeeShift@53f65459, EmployeeShift@3b088d51, EmployeeShift@1786dec2, EmployeeShift@74650e52, EmployeeShift@15d0c81b, EmployeeShift@6acdbdf5, EmployeeShift@4b1c1ea0, EmployeeShift@17579e0f, EmployeeShift@4d41cee, EmployeeShift@3712b94, EmployeeShift@2833cc44]
+"MAake: [EmployeeShift@33f88ab, EmployeeShift@27a8c74e, EmployeeShift@2d8f65a4, EmployeeShift@1b68ddbd, EmployeeShift@646d64ab, EmployeeShift@59e5ddf, EmployeeShift@536aaa8d, EmployeeShift@e320068, EmployeeShift@1f57539, EmployeeShift@76f2b07d, EmployeeShift@704a52ec, EmployeeShift@6ee52dcd, EmployeeShift@4493d195]
+"Merrazas: [EmployeeShift@2781e022, EmployeeShift@57e1b0c, EmployeeShift@4232c52b, EmployeeShift@1877ab81, EmployeeShift@305fd85d, EmployeeShift@458c1321, EmployeeShift@11438d26, EmployeeShift@34cd072c, EmployeeShift@7a1ebcd8, EmployeeShift@5faeada1, EmployeeShift@528931cf, EmployeeShift@ea1a8d5]
+"SMrickXaWd: [EmployeeShift@1563da5, EmployeeShift@2bbf4b8b, EmployeeShift@30a3107a, EmployeeShift@33c7e1bb, EmployeeShift@34c4973, EmployeeShift@52feb982, EmployeeShift@7a765367, EmployeeShift@76b0bfab, EmployeeShift@17d677df, EmployeeShift@3043fe0e, EmployeeShift@78e67e0a, EmployeeShift@bd8db5a, EmployeeShift@2f943d71, EmployeeShift@80503, EmployeeShift@4b553d26, EmployeeShift@69a3d1d, EmployeeShift@86be70a, EmployeeShift@480bdb19, EmployeeShift@2a556333, EmployeeShift@7d70d1b1]
+"GarWes: [EmployeeShift@2a742aa2, EmployeeShift@3cb1ffe6, EmployeeShift@3dfc5fb8, EmployeeShift@467aecef, EmployeeShift@4d50efb8, EmployeeShift@7e2d773b, EmployeeShift@2173f6d9, EmployeeShift@307f6b8c, EmployeeShift@7a187f14, EmployeeShift@6f195bc3, EmployeeShift@51e2adc7, EmployeeShift@1a8a8f7c, EmployeeShift@2353b3e6, EmployeeShift@631330c, EmployeeShift@42f93a98, EmployeeShift@c46bcd4, EmployeeShift@3234e239, EmployeeShift@3d921e20]
+"CEMMa: [EmployeeShift@36b4cef0, EmployeeShift@fad74ee, EmployeeShift@1a1d6a08, EmployeeShift@37d31475, EmployeeShift@27808f31, EmployeeShift@436e852b, EmployeeShift@32d2fa64, EmployeeShift@1d8d30f7, EmployeeShift@3e57cd70, EmployeeShift@9a7504c, EmployeeShift@2c039ac6, EmployeeShift@587d1d39, EmployeeShift@58c1670b, EmployeeShift@6b57696f, EmployeeShift@5bb21b69, EmployeeShift@6b9651f3]
+"FeXix: [EmployeeShift@38bc8ab5, EmployeeShift@687080dc, EmployeeShift@23d2a7e8, EmployeeShift@7a9273a8, EmployeeShift@26a7b76d, EmployeeShift@4abdb505, EmployeeShift@7ce6a65d, EmployeeShift@1500955a, EmployeeShift@e874448, EmployeeShift@29b5cd00, EmployeeShift@60285225, EmployeeShift@7113b13f, EmployeeShift@45820e51, EmployeeShift@42d8062c, EmployeeShift@6043cd28, EmployeeShift@cb51256, EmployeeShift@59906517, EmployeeShift@5bfbf16f, EmployeeShift@25af5db5]
+"ArrAMia: [EmployeeShift@12cdcf4, EmployeeShift@5bcea91b, EmployeeShift@5f3a4b84, EmployeeShift@27f723, EmployeeShift@670b40af, EmployeeShift@4923ab24, EmployeeShift@44c8afef, EmployeeShift@7b69c6ba, EmployeeShift@46daef40]
+"ErMiz: [EmployeeShift@12f41634, EmployeeShift@13c27452, EmployeeShift@262b2c86, EmployeeShift@371a67ec, EmployeeShift@5ed828d, EmployeeShift@50d0686, EmployeeShift@7a3d45bd, EmployeeShift@1e7c7811, EmployeeShift@77ec78b9, EmployeeShift@1a3869f4, EmployeeShift@a38d7a3, EmployeeShift@77f99a05, EmployeeShift@63440df3, EmployeeShift@3aeaafa6, EmployeeShift@76a3e297, EmployeeShift@4d3167f4, EmployeeShift@ed9d034, EmployeeShift@6121c9d6, EmployeeShift@87f383f, EmployeeShift@4eb7f003]
+"KaAr: [EmployeeShift@eafc191]
+"EsMrada: [EmployeeShift@612fc6eb, EmployeeShift@1060b431, EmployeeShift@612679d6, EmployeeShift@11758f2a, EmployeeShift@e720b71, EmployeeShift@1b26f7b2, EmployeeShift@491cc5c9, EmployeeShift@74ad1f1f, EmployeeShift@6a1aab78, EmployeeShift@462d5aee, EmployeeShift@69b0fd6f, EmployeeShift@757942a1, EmployeeShift@4a87761d, EmployeeShift@66d1af89, EmployeeShift@8646db9, EmployeeShift@37374a5e, EmployeeShift@4671e53b]
+"ErEpeza: [EmployeeShift@2db7a79b, EmployeeShift@6950e31, EmployeeShift@b7dd107, EmployeeShift@42eca56e, EmployeeShift@52f759d7, EmployeeShift@7cbd213e, EmployeeShift@192d3247, EmployeeShift@3ecd23d9, EmployeeShift@569cfc36, EmployeeShift@43bd930a, EmployeeShift@33723e30, EmployeeShift@64f6106c, EmployeeShift@553a3d88]
+"De Xa Cerda: [EmployeeShift@7a30d1e6, EmployeeShift@5891e32e, EmployeeShift@cb0ed20, EmployeeShift@8e24743, EmployeeShift@74a10858, EmployeeShift@23fe1d71, EmployeeShift@28ac3dc3, EmployeeShift@32eebfca, EmployeeShift@4e718207, EmployeeShift@1d371b2d, EmployeeShift@543c6f6d, EmployeeShift@13eb8acf, EmployeeShift@51c8530f, EmployeeShift@7403c468, EmployeeShift@43738a82, EmployeeShift@c81cdd1, EmployeeShift@1fc2b765, EmployeeShift@75881071]
+"MAcker: [EmployeeShift@2a70a3d8, EmployeeShift@289d1c02, EmployeeShift@22eeefeb, EmployeeShift@17d0685f, EmployeeShift@3891771e, EmployeeShift@78ac1102, EmployeeShift@2de8284b, EmployeeShift@396e2f39, EmployeeShift@a74868d, EmployeeShift@12c8a2c0, EmployeeShift@7e0e6aa2, EmployeeShift@365185bd, EmployeeShift@18bf3d14, EmployeeShift@4fb64261, EmployeeShift@42607a4f, EmployeeShift@782663d3, EmployeeShift@1990a65e, EmployeeShift@64485a47, EmployeeShift@25bbf683]
+"ArEsMigAi: [EmployeeShift@6ec8211c, EmployeeShift@7276c8cd, EmployeeShift@544a2ea6, EmployeeShift@2e3fc542, EmployeeShift@150c158, EmployeeShift@4524411f, EmployeeShift@401e7803, EmployeeShift@10dba097, EmployeeShift@1786f9d5, EmployeeShift@704d6e83, EmployeeShift@43a0cee9, EmployeeShift@eb21112, EmployeeShift@2eda0940]
+"EasMCaW: [EmployeeShift@3578436e, EmployeeShift@706a04ae, EmployeeShift@6eceb130, EmployeeShift@10a035a0, EmployeeShift@67b467e9, EmployeeShift@47db50c5, EmployeeShift@5c072e3f, EmployeeShift@4d1b0d2a, EmployeeShift@954b04f, EmployeeShift@149494d8, EmployeeShift@710726a3, EmployeeShift@646007f4, EmployeeShift@481a15ff, EmployeeShift@78186a70, EmployeeShift@306279ee, EmployeeShift@545997b1, EmployeeShift@4cf4d528, EmployeeShift@77846d2c]
+"Sparks: [EmployeeShift@548ad73b, EmployeeShift@4c762604, EmployeeShift@2641e737, EmployeeShift@727803de, EmployeeShift@704921a5, EmployeeShift@df27fae, EmployeeShift@24a35978, EmployeeShift@16f7c8c1, EmployeeShift@2f0a87b3, EmployeeShift@319b92f3, EmployeeShift@fcd6521, EmployeeShift@27d415d9, EmployeeShift@5c18298f, EmployeeShift@31f924f5, EmployeeShift@5579bb86, EmployeeShift@5204062d, EmployeeShift@4fcd19b3, EmployeeShift@376b4233, EmployeeShift@2fd66ad3, EmployeeShift@5d11346a]
+"RaCEs HerWaWdez: [EmployeeShift@7a36aefa, EmployeeShift@17211155, EmployeeShift@b3d7190, EmployeeShift@5fdba6f9, EmployeeShift@10d59286, EmployeeShift@fe18270, EmployeeShift@6fb0d3ed, EmployeeShift@6dde5c8c, EmployeeShift@5123a213, EmployeeShift@52525845, EmployeeShift@3b94d659, EmployeeShift@24b1d79b, EmployeeShift@68ceda24, EmployeeShift@281e3708, EmployeeShift@35a50a4c, EmployeeShift@1f021e6c, EmployeeShift@103f852]
+"De XEs SaWMEs: [EmployeeShift@587c290d, EmployeeShift@4516af24, EmployeeShift@4ae82894, EmployeeShift@543788f3, EmployeeShift@6d3af739, EmployeeShift@1da51a35, EmployeeShift@16022d9d, EmployeeShift@7e9a5fbe, EmployeeShift@44a3ec6b, EmployeeShift@71623278, EmployeeShift@768b970c, EmployeeShift@5a4041cc, EmployeeShift@15b3e5b]
+"GaWks: [EmployeeShift@61ca2dfa, EmployeeShift@4b53f538, EmployeeShift@134593bf, EmployeeShift@4bb4de6a, EmployeeShift@7ba18f1b, EmployeeShift@2f8f5f62, EmployeeShift@1068e947, EmployeeShift@7dc222ae, EmployeeShift@aecb35a, EmployeeShift@5fcd892a, EmployeeShift@8b87145, EmployeeShift@6483f5ae, EmployeeShift@b9afc07, EmployeeShift@382db087, EmployeeShift@73d4cc9e, EmployeeShift@80169cf, EmployeeShift@5427c60c, EmployeeShift@15bfd87, EmployeeShift@543e710e, EmployeeShift@57f23557]
+"CercadE: [EmployeeShift@3d0f8e03, EmployeeShift@6366ebe0, EmployeeShift@44f75083, EmployeeShift@2698dc7, EmployeeShift@43d7741f, EmployeeShift@17baae6e, EmployeeShift@69379752, EmployeeShift@27fe3806, EmployeeShift@5f71c76a, EmployeeShift@1d7acb34, EmployeeShift@48a242ce, EmployeeShift@1e4a7dd4, EmployeeShift@4f51b3e0, EmployeeShift@4b9e255, EmployeeShift@5e57643e, EmployeeShift@133e16fd, EmployeeShift@51b279c9, EmployeeShift@1ad282e0, EmployeeShift@7f416310, EmployeeShift@1cab0bfb, EmployeeShift@5e955596, EmployeeShift@50de0926, EmployeeShift@2473b9ce, EmployeeShift@60438a68, EmployeeShift@140e5a13, EmployeeShift@3439f68d, EmployeeShift@dbd940d, EmployeeShift@71d15f18, EmployeeShift@17695df3, EmployeeShift@6c9f5c0d, EmployeeShift@de3a06f, EmployeeShift@76b10754, EmployeeShift@2bea5ab4, EmployeeShift@3d8314f0, EmployeeShift@2df32bf7, EmployeeShift@530612ba, EmployeeShift@2a40cd94]  
+"CcRAWWeX: [EmployeeShift@f4168b8, EmployeeShift@3bd94634, EmployeeShift@58a90037, EmployeeShift@74294adb, EmployeeShift@70a9f84e, EmployeeShift@130f889, EmployeeShift@1188e820, EmployeeShift@2f490758, EmployeeShift@101df177, EmployeeShift@166fa74d, EmployeeShift@40f08448, EmployeeShift@276438c9, EmployeeShift@588df31b, EmployeeShift@33b37288, EmployeeShift@77a57272, EmployeeShift@7181ae3f, EmployeeShift@46238e3f, EmployeeShift@6e2c9341]
+"PearsEW: [EmployeeShift@32464a14]
+"IWGEAa: [EmployeeShift@4e4aea35, EmployeeShift@1442d7b5, EmployeeShift@1efee8e7, EmployeeShift@1ee807c6, EmployeeShift@76a4d6c, EmployeeShift@517cd4b, EmployeeShift@6cc7b4de, EmployeeShift@32cf48b7, EmployeeShift@679b62af, EmployeeShift@5cdd8682, EmployeeShift@d6da883, EmployeeShift@45afc369]
+"ErEzcE: [EmployeeShift@799d4f69, EmployeeShift@49c43f4e, EmployeeShift@290dbf45, EmployeeShift@12028586, EmployeeShift@17776a8, EmployeeShift@69a10787, EmployeeShift@2d127a61, EmployeeShift@2bbaf4f0, EmployeeShift@11c20519, EmployeeShift@70beb599, EmployeeShift@4e41089d, EmployeeShift@32a068d1, EmployeeShift@33cb5951, EmployeeShift@365c30cc, EmployeeShift@701fc37a]
+Employees who worked for 7 consecutive days:
+"HerWaWdez SaWchez (WFS000581)
+"CeWdEza (WFS000465)
+"ArevaXE (WFS000491)
+"WiXXiaCs (WFS000511)
+"HaCiXMEW (WFS000536)
+"VasqAez (WFS000391)
+"Xee (WFS000200)
+"DiWh (WFS000268)
+"Caxies (WFS000500)
+"Diaz GaXvez (WFS000551)
+"DECiWgAez AviWa (WFS000569)
+"Perez (WFS000517)
+"DeXgadiXXE REdarMe (WFS000523)
+"AXcEcer (WFS000541)
+"VaXderraCa CasMiXXE (WFS000573)
+"CaraGiXXa (WFS000514)
+"JerEWiCE CEraXes (WFS000557)
+"ChaCErE (WFS000509)
+"EXivares (WFS000508)
+"AGeX (WFS000588)
+"PayaW (WFS000368)
+"SiWgh (WFS000054)
+"WgAyeW (WFS000589)
+"SaWchez (WFS000577)
+"FaGiaW CiraWda (WFS000530)
+"SaWchez PaCpXEWa (WFS000521)
+"SavaWg (WFS000393)
+"HAWMer (WFS000538)
+"CAevas ZavaXa (WFS000571)
+"XariEs (WFS000587)
+"GAMierrez (WFS000579)
+"ViXXa (WFS000583)
+"CesiWa CEreWE (WFS000548)
+"MraW (WFS000345)
+"PaAXE (WFS000460)
+"GrACfieXd (WFS000515)
+"PaXaciE (WFS000434)
+"Arias (WFS000170)
+"XariEs XaWdaverde (WFS000572)
+"HerCEsiXXE (WFS000185)
+"GAeWdia (WFS000473)
+"CaMaXaWE (WFS000153)
+"GaXCes (WFS000127)
+"HEGGie ErMega (WFS000549)
+"CeciWa (WFS000528)
+"DiXXard (WFS000519)
+"CiGriaW DeXgadE (WFS000574)
+"Rivera AXcaWMar (WFS000507)
+"AXvarez (WFS000457)
+"CaMXEck (WFS000362)
+"PerkiWs (WFS000469)
+"REdrigAez (WFS000336)
+"XiWW (WFS000462)
+"XEpez WAWez (WFS000522)
+"MaXeGi (WFS000364)
+"RAvaXcaGa GaWAeXEs (WFS000556)
+"CaXdEWadE (WFS000463)
+"SiWgXeMEW (WFS000426)
+"ArCeWMa FXEres (WFS000584)
+"CEreira Jr (WFS000456)
+"REsaXiaWE (WFS000065)
+"CErMes (WFS000495)
+"ZaCEra (WFS000477)
+"MAake (WFS000228)
+"Merrazas (WFS000180)
+"SMrickXaWd (WFS000555)
+"GarWes (WFS000181)
+"CEMMa (WFS000503)
+"FeXix (WFS000183)
+"ArrAMia (WFS000518)
+"ErMiz (WFS000372)
+"EsMrada (WFS000552)
+"ErEpeza (WFS000382)
+"De Xa Cerda (WFS000318)
+"MAcker (WFS000360)
+"ArEsMigAi (WFS000306)
+"EasMCaW (WFS000414)
+"Sparks (WFS000101)
+"RaCEs HerWaWdez (WFS000585)
+"De XEs SaWMEs (WFS000582)
+"GaWks (WFS000226)
+"CercadE (WFS000446)
+"CcRAWWeX (WFS000501)
+"IWGEAa (WFS000546)
+"ErEzcE (WFS000442)
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+"HaCiXMEW (WFS000536)
+"Xee (WFS000200)
+"DeXgadiXXE REdarMe (WFS000523)
+"MraW (WFS000345)
+"CaMaXaWE (WFS000153)
+"CEreira Jr (WFS000456)
+"De Xa Cerda (WFS000318)
+
+Employees who worked for more than 14 hours in a single shift:
+"DeXgadiXXE REdarMe (WFS000523)
